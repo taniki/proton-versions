@@ -8,9 +8,7 @@
 
 
 
-[Sign in(new window)](https://account.proton.me/login)
-
-[Create a free account](https://proton.me/pricing)
+[Sign in(new window)](https://account.proton.me/login)[Create a free account](https://proton.me/pricing)
 
 Open menu
 
