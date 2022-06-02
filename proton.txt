@@ -22,11 +22,44 @@ Proton - Privacy by default
 
 Products
 
+  * [Proton Mail](https://proton.me/mail)
+  * [Proton Calendar](https://proton.me/calendar)
+  * [Proton Drive](https://proton.me/drive)
+  * [Proton VPN(new window)](https://protonvpn.com/)
+  * [Proton for Business](https://proton.me/business)
+
+
+
 Privacy and community
+
+  * [Privacy and security](https://proton.me/privacy)
+  * [Switch to Proton](https://proton.me/easyswitch)
+  * [Community](https://proton.me/community)
+  * [Open source](https://proton.me/community/open-source)
+  * [Pricing](https://proton.me/pricing)
+
+
 
 Company
 
+  * [About us](https://proton.me/about)
+  * [Team](https://proton.me/about/team)
+  * [Impact](https://proton.me/about/impact)
+  * [Careers(new window)](https://careers.proton.me/)We’re hiring
+
+  * [Shop(new window)](https://shop.proton.me/)
+
+
+
 Connect
+
+  * [Blog](https://proton.me/blog)
+  * [Help and support](https://proton.me/support)
+  * [Partners and affiliates](https://proton.me/partners)
+  * [Press and media](https://proton.me/media)
+  * [Contact us](https://proton.me/support/contact)
+
+
 
 Products
 
