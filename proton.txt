@@ -28,7 +28,7 @@ Resources
 
 * * *
 
-[BlogLatest news on privacy and the internet.](https://proton.me/blog)[NewsProton announcements, audits, and releases.](https://proton.me/news)[Help and supportGuides and customer support for Proton products.](https://proton.me/support)
+[BlogLatest news on privacy and the internet.](https://proton.me/blog)[NewsProton announcements, audits, and releases.](https://proton.me/blog/news)[Help and supportGuides and customer support for Proton products.](https://proton.me/support)
 
 Download the apps
 
@@ -274,6 +274,7 @@ English
   * [System status(new window)](https://protonstatus.com/)
   * [Report abuse](https://proton.me/support/abuse)
   * [Report a problem](https://proton.me/support/report-bug)
+  * [Report a security issue](https://proton.me/security/response-center)
   * [Request a feature(new window)](https://protonmail.uservoice.com/)
 
 
