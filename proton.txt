@@ -1,10 +1,10 @@
-[![Proton](/web/20230318195917im_/https://proton.me/static/5739c69ac1a01c887e1d8b3154f15b5a/proton-logo.svg)](https://proton.me/)
+[![Proton](/web/20230329141826im_/https://proton.me/static/5739c69ac1a01c887e1d8b3154f15b5a/proton-logo.svg)](https://proton.me/)
 
   * Products
 
-[![](/web/20230318195917im_/https://proton.me/static/fc5b1e8b92dd09734ca7c9d91e89db93/proton-mail-badge.svg)![Proton Mail](/web/20230318195917im_/https://proton.me/static/fce3bdbd67e2fb6608b95b1ea86671af/proton-mail-name-alone.svg)Encrypted email that's private by default.](https://proton.me/mail)[![](/web/20230318195917im_/https://proton.me/static/e8c55eda314dfefc4c7e1bf3b0c96fda/proton-calendar-badge.svg)![Proton Calendar](/web/20230318195917im_/https://proton.me/static/77e254172f7a11ea17873aedd13eb3ef/proton-calendar-name-alone.svg)Your calendar is a record of your life. Keep it safe.](https://proton.me/calendar)[![](/web/20230318195917im_/https://proton.me/static/704d9ef7f6b6a5a521beb656e3a00db0/proton-drive-badge.svg)![Proton Drive](/web/20230318195917im_/https://proton.me/static/51faf81a7fe7486d525176ab97cb2d94/proton-drive-name-alone.svg)Secure cloud storage that gives you control of your data.](https://proton.me/drive)[![](/web/20230318195917im_/https://proton.me/static/da4b71b9f3a89bdd24bd642039382594/proton-vpn-badge.svg)![Proton VPN](/web/20230318195917im_/https://proton.me/static/f796009edf370cf077a04ee6463482f0/proton-vpn-name-alone.svg)Your gateway to online freedom.(new window)](https://protonvpn.com/)
+[![](/web/20230329141826im_/https://proton.me/static/fc5b1e8b92dd09734ca7c9d91e89db93/proton-mail-badge.svg)![Proton Mail](/web/20230329141826im_/https://proton.me/static/fce3bdbd67e2fb6608b95b1ea86671af/proton-mail-name-alone.svg)Encrypted email that's private by default.](https://proton.me/mail)[![](/web/20230329141826im_/https://proton.me/static/e8c55eda314dfefc4c7e1bf3b0c96fda/proton-calendar-badge.svg)![Proton Calendar](/web/20230329141826im_/https://proton.me/static/77e254172f7a11ea17873aedd13eb3ef/proton-calendar-name-alone.svg)Your calendar is a record of your life. Keep it safe.](https://proton.me/calendar)[![](/web/20230329141826im_/https://proton.me/static/704d9ef7f6b6a5a521beb656e3a00db0/proton-drive-badge.svg)![Proton Drive](/web/20230329141826im_/https://proton.me/static/51faf81a7fe7486d525176ab97cb2d94/proton-drive-name-alone.svg)Secure cloud storage that gives you control of your data.](https://proton.me/drive)[![](/web/20230329141826im_/https://proton.me/static/da4b71b9f3a89bdd24bd642039382594/proton-vpn-badge.svg)![Proton VPN](/web/20230329141826im_/https://proton.me/static/f796009edf370cf077a04ee6463482f0/proton-vpn-name-alone.svg)Your gateway to online freedom.(new window)](https://protonvpn.com/)
 
-[![Proton for Business](/web/20230318195917im_/https://proton.me/static/686fc2462275e72c9c44b2e095bd2fd8/proton-for-business.svg)Improve the security of your business and comply with data protection laws.](https://proton.me/business)
+[![Proton for Business](/web/20230329141826im_/https://proton.me/static/686fc2462275e72c9c44b2e095bd2fd8/proton-for-business.svg)Improve the security of your business and comply with data protection laws.](https://proton.me/business)
 
   * Who we are
 
@@ -44,7 +44,9 @@ Open menu
 
 # Terms of Service
 
-By using the proton.me website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Contacts, Proton Calendar, and Proton Drive (the “Services”), you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”). 
+Last modified: 15 March 2023
+
+By using the proton.me website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive and Proton VPN (the “Services”), you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland.
 
 If you agree to these Terms on behalf of a company or another legal entity, you represent that you have the authority to bind such entity, its affiliates, and all users who access the Services through your Account to these Terms. In the absence of such an authority, you are not authorized to use the Services.
 
@@ -58,33 +60,44 @@ Each user is solely responsible for all actions performed through the Services.
 
 ## Authorized use of the Services
 
-You agree not to use the Services for any illegal or prohibited activities. You also agree not to disrupt the Company’s networks and servers in your use of the Services.
+You agree not to use the Services for any illegal or prohibited activities. Unauthorized activities include, but are not limited to: 
 
-Spam, which is the practice of sending irrelevant or unsolicited messages or content over the internet, typically to a large number of recipients, notably for the purposes of advertising, phishing, or spreading malware or viruses, is prohibited. Moreover, you agree not to use the Services to send junk mail, bulk emails, or mailing list emails that contain persons that have not specifically agreed to be included on that list. You agree not to use the Services to store or share content that violates the law or the rights of a third party.
+  1. Disrupting the Company's networks and Servers in your use of the Services;
+  2. Accessing/sharing/downloading/uploading illegal content, including but not limited to Child Sexual Abuse Material (CSAM) or content related to CSAM;
+  3. Infringing upon or violating the intellectual property rights of the Company or a third party;
+  4. Harassing, abusing, insulting, harming, defaming, slandering, disparaging, intimidating or discriminating someone based on gender, sexual orientation, religion, ethnicity, race, age, nationality or disability;
+  5. Trading, selling or otherwise transferring the ownership of an Account to a third party (with the exception of Lifetime Accounts, which can be sold or traded exclusively through the Company);
+  6. Promoting illegal activities or providing instructional information to other parties to commit illegal activities;
+  7. Having multiple free Accounts (e.g. creating bulk signups, creating and/or operating a large number of free Accounts for a single organization or individual);
+  8. Paying for your subscription with fraudulent payment means, such as a stolen credit card;
+  9. Engaging in spam activities, which are defined as the practice of sending irrelevant or unsolicited messages or content over the internet, typically to a large number of recipients, notably for the purposes of advertising, phishing, or spreading malware or viruses.;
+  10. Sending junk mail, bulk emails, or mailing list emails that contain persons that have not specifically agreed to be included on that list. You agree not to use the Services to store or share content that violates the law or the rights of a third party;
+  11. Attempting to access, probe, or connect to computing devices without proper authorization (i.e. any form of unauthorized "hacking");
+  12. Referring yourself or another one of your account to unduly benefit from our referral program's advantages.
 
-Having multiple free accounts is not considered an acceptable use of our service (e.g. bulk signups, a large number of free accounts created by a single organization or individual). Abusive registrations of aliases for third-party services is also not acceptable. Free accounts must also only be created and maintained by their effective users (e.g. it is not acceptable to create accounts in anyone else’s name and later transfer credentials to that third party).
 
-Any Account found to be committing the above-mentioned activities will be immediately suspended.
 
-Trading or selling a Proton Mail account to a third party is prohibited and the Company reserves the right to suspend infringing accounts. This rule does not apply to our Lifetime Accounts, which can be sold or traded exclusively through the Company. The Company has no obligation to store or forward the contents of terminated accounts. We also have no obligation to store messages or contents for accounts that exceed their storage quotas.
-
-The Company reserves the right to terminate Accounts immediately if a fraudulent payment is detected, such as a payment with a stolen credit card.
+Any Account found to be committing the listed unauthorized activities will be immediately suspended.
 
 The Company may also terminate Accounts which are being used for illegal activities that are not listed in the present section, particularly in response to orders from the competent authorities informing of such illegal activity.
 
-Although it is not current practice, the Company reserves the right to suspend or delete free Accounts that have been inactive for a consecutive period of three months or more. However, our current [inactive Account policy(new window)](https://proton.me/support/inactive-accounts) is not as strict.
+The Company reserves the right to suspend or delete free Accounts that have been inactive for a consecutive period of twelve months. For more information, we invite you to read our [inactive account policy](https://proton.me/support/inactive-accounts).
+
+If you would like to contest the suspension of your account, please submit an appeal through our [Abuse Appeal Form](https://proton.me/support/abuse).
 
 ## Limited warranties and liability
 
-The Company does not make any warranty about the reliability of the Services or guarantee the security of user data, despite best efforts. The Service is provided “as is” and you agree not to hold the Company responsible nor to seek indemnification for any damages that may arise as a result of the loss of use, data, or profits connected to the performance of the Service or failure in such performance.
+The Company does not make any warranty about the reliability of the Services or the security of user data, despite best efforts. The Service is provided “as is” and you agree not to hold the Company responsible nor to seek indemnification for any damages that may arise as a result of the loss of use, data, or profits connected to the performance of the Service or failure in such performance.
+
+The Company has no obligation to store or forward the contents of terminated Accounts. We also have no obligation to store messages or contents for accounts that exceed their storage quotas.
 
 Furthermore, you will not hold the Company liable or seek indemnification if confidential material is unintentionally released as the result of a security failure or vulnerability in the performance of the Services.
 
-Due to the encrypted nature of the Services, you acknowledge that the Company has no ability or obligation to recover your data if you misplace your decryption password. 
+Due to the encrypted nature of the Services, you acknowledge that the Company has no ability or obligation to recover your data if you misplace your password.
 
 ## Service level agreement (SLA)
 
-For users with [Proton for Business Accounts(new window)](https://proton.me/support/proton-for-business), the Company aims to provide Service availability of 99.95% or better. If downtime in any month exceeds 0.05% of that month, the Company will credit the user’s Account. Service credits are applied at the user’s request and will apply toward the balance due at the end of the next billing cycle (either monthly or yearly).
+For users with [Proton for Business Accounts](https://proton.me/support/proton-for-business), the Company aims to provide Service availability of 99.95% or better. If downtime in any month exceeds 0.05% of that month, the Company will credit the user’s Account. Service credits are applied at the user’s request and will apply toward the balance due at the end of the next billing cycle (either monthly or yearly).
 
 The Company calculates service credits in the following way:
 
@@ -109,7 +122,7 @@ You agree that the Company, and any parents, subsidiaries, officers, employees, 
 
 ## Privacy
 
-Our [Privacy Policy](https://proton.me/legal/privacy) explains the way we handle and protect your personal data and privacy in relation to your Account, your use of the Services, and your browsing of the proton.me website. By agreeing to the present Terms and to be able to use the Services, you also agree to our Privacy Policy.
+Our [Privacy Policy](https://proton.me/legal/privacy) and its sub-policies explain the way we handle and protect your personal data and privacy in relation to your Account, your use of the Services, and your browsing of the proton.me website. By agreeing to the present Terms and to be able to use the Services, you also agree to our Privacy Policy and its sub-policies.
 
 If, in the provision of the Services, the Company processes, on the user’s behalf (where the user acts as a Data Controller), any personal data that is subject to the EU General Data Protection Regulation (GDPR), the [company’s data processing agreement](https://proton.me/legal/dpa) shall apply.
 
@@ -119,15 +132,17 @@ All trademarks, service marks, logos, trade names, and other proprietary designa
 
 ## Terms of payment
 
-Due to their nature, the paid Services provided by the Company are generally non-refundable and any refunds or credits given will be at the sole discretion of the Company. Paid Accounts which are terminated due to a violation of these Terms will incur the loss of all payments and credits and are not eligible for refund.
+Subscriptions for the Services are charged on a monthly, yearly or biyearly basis, depending on your selection. After the initial term, the subscription is renewed automatically for the same selected duration unless canceled by you. Credit balances are automatically deducted accordingly. You are responsible for keeping payment information in relation with your Account up to date.
 
-If the Company chooses to issue a refund for any reason, the Company is only obligated to refund in the original currency of payment. If you request a credit balance to be converted between different currencies which the Company supports, the Company has discretion over the exchange rate applied.
+You may cancel your subscription within 30 days of the initial purchase and receive a refund for any unused portion of the service period. Here, any unused portion of the service period refers to the prorated remaining full days of the subscription period. Refunds will be processed within 30 days of the request. To request a refund, please contact us using our [support form](https://proton.me/support/contact). This refund option is only applicable to users who have subscribed to Proton's Services directly through Proton's official channels (website and apps). If you have subscribed to Proton's Services through the intermediary of a third-party, please refer to their respective refund policy.
 
-Subscriptions are paid on a monthly or yearly basis, depending on your selection. After the initial term, the subscription is renewed automatically for the same duration until canceled by you. Credit balances are automatically deducted accordingly. You are responsible for keeping card information in relation with your Account up to date.
+Past the abovementioned 30-day period, the Services provided by the Company are generally non-refundable and any refund or credit given will be at the sole discretion of the Company. Paid Accounts which are terminated due to a violation of these Terms will incur the loss of all payments and credits and are not eligible for refund.
+
+If the Company chooses to issue a refund for any reason, the Company will only refund in the original currency of payment. If you request a credit balance to be converted between different currencies which the Company supports, the Company has discretion over the exchange rate applied.
 
 If you fail to fulfill your obligation of payment as a user of a paid Account, we may suspend your Account or delete it after an extended period of default.
 
-If you rely on dispute or charge-back mechanisms of third-party payment processors and the result of that mechanism causes the Company to be liable for an amount exceeding the price paid for the service (e.g. dispute fee), you authorize the Company to charge that amount on your Account.
+If you rely on dispute or chargeback mechanisms of third-party payment processors, you waive your right to the above mentioned refund from the Company. Furthermore, if the result of the dispute or chargeback mechanisms causes the Company to be liable for an amount exceeding the price paid for the service (e.g. dispute fee), you authorize the Company to charge that amount on your account.
 
 ## Modification to the terms of service
 
@@ -136,13 +151,6 @@ Within the limits of applicable law, the Company reserves the right to review an
 ## Applicable law and language
 
 These Terms shall be governed in all respects by the substantive laws of Switzerland. Any controversy, claim, or dispute arising out of or relating to these Terms shall be subject to the jurisdiction of the competent courts of the Canton of Geneva. In case of discrepancy between the English version of these Terms and any translated version, the English version shall prevail.
-
-## Links
-
-  * [Privacy policy](https://proton.me/legal/privacy)
-  * [Abuse appeal form](https://proton.me/support/abuse)
-
-
 
 On this page
 
@@ -156,15 +164,14 @@ On this page
   * Terms of payment
   * Modification to the terms of service
   * Applicable law and language
-  * Links
 
 
 
-[![Proton homepage](/web/20230318195917im_/https://proton.me/static/20516d7ff0028940fc82f628f55d6fe6/proton-logo-p.svg)](https://proton.me/)
+[![Proton homepage](/web/20230329141826im_/https://proton.me/static/20516d7ff0028940fc82f628f55d6fe6/proton-logo-p.svg)](https://proton.me/)
 
 Proton - Privacy by default
 
-[![Follow us on Twitter](/web/20230318195917im_/https://proton.me/static/d8877cba4d361f2aef531ffd5228e02a/twitter-visible-purple.svg)(new window)](https://twitter.com/ProtonPrivacy)[![Follow us on Reddit](/web/20230318195917im_/https://proton.me/static/b848fb91c420810b55cb692629d9ab94/reddit-visible-purple.svg)(new window)](https://www.reddit.com/r/ProtonMail)[![Follow us on Instagram](/web/20230318195917im_/https://proton.me/static/6296d04c14b4c8e06e984d4a6c56cd97/instagram-visible-purple.svg)(new window)](https://www.instagram.com/protonprivacy)[![Follow us on Facebook](/web/20230318195917im_/https://proton.me/static/79284745da622606c43dcb4fb2cf3414/facebook-visible-purple.svg)(new window)](https://www.facebook.com/Proton)[![Follow us on LinkedIn](/web/20230318195917im_/https://proton.me/static/67882974928e0c6b4f37f9f0d5bab628/linkedin-visible-purple.svg)(new window)](https://www.linkedin.com/company/protonprivacy)
+[![Follow us on Twitter](/web/20230329141826im_/https://proton.me/static/d8877cba4d361f2aef531ffd5228e02a/twitter-visible-purple.svg)(new window)](https://twitter.com/ProtonPrivacy)[![Follow us on Reddit](/web/20230329141826im_/https://proton.me/static/b848fb91c420810b55cb692629d9ab94/reddit-visible-purple.svg)(new window)](https://www.reddit.com/r/ProtonMail)[![Follow us on Instagram](/web/20230329141826im_/https://proton.me/static/6296d04c14b4c8e06e984d4a6c56cd97/instagram-visible-purple.svg)(new window)](https://www.instagram.com/protonprivacy)[![Follow us on Facebook](/web/20230329141826im_/https://proton.me/static/79284745da622606c43dcb4fb2cf3414/facebook-visible-purple.svg)(new window)](https://www.facebook.com/Proton)[![Follow us on LinkedIn](/web/20230329141826im_/https://proton.me/static/67882974928e0c6b4f37f9f0d5bab628/linkedin-visible-purple.svg)(new window)](https://www.linkedin.com/company/protonprivacy)
 
 Products
 
@@ -257,7 +264,7 @@ Route de la Galaise 321228 Plan-les-OuatesGeneva, Switzerland
 
 Built with support from
 
-![Swiss Confederation](/web/20230318195917im_/https://proton.me/static/a93472e99001d38ecd9656158cd50bff/swiss-confederation.svg)
+![Swiss Confederation](/web/20230329141826im_/https://proton.me/static/a93472e99001d38ecd9656158cd50bff/swiss-confederation.svg)
 
 Schweizerische Eidgenossenschaft
 
@@ -271,7 +278,7 @@ Swiss Confederation
 
 Innosuisse - Swiss Innovation Agency
 
-![European flag](/web/20230318195917im_/https://proton.me/static/719e5d9ebfe98520832012136811bb81/european-flag.svg)
+![European flag](/web/20230329141826im_/https://proton.me/static/719e5d9ebfe98520832012136811bb81/european-flag.svg)
 
 This project is supported  
 by the European Union's  
