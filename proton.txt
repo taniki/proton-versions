@@ -1,10 +1,10 @@
-[![Proton](/web/20230709022437im_/https://proton.me/static/5739c69ac1a01c887e1d8b3154f15b5a/proton-logo.svg)](https://proton.me/)
+[![Proton](/web/20230716101927im_/https://proton.me/static/5739c69ac1a01c887e1d8b3154f15b5a/proton-logo.svg)](https://proton.me/)
 
   * Products
 
-[![](/web/20230709022437im_/https://proton.me/static/fc5b1e8b92dd09734ca7c9d91e89db93/proton-mail-badge.svg)![Proton Mail](/web/20230709022437im_/https://proton.me/static/fce3bdbd67e2fb6608b95b1ea86671af/proton-mail-name-alone.svg)Encrypted email that's private by default.](https://proton.me/mail)[![](/web/20230709022437im_/https://proton.me/static/e8c55eda314dfefc4c7e1bf3b0c96fda/proton-calendar-badge.svg)![Proton Calendar](/web/20230709022437im_/https://proton.me/static/77e254172f7a11ea17873aedd13eb3ef/proton-calendar-name-alone.svg)Your calendar is a record of your life. Keep it safe.](https://proton.me/calendar)[![](/web/20230709022437im_/https://proton.me/static/704d9ef7f6b6a5a521beb656e3a00db0/proton-drive-badge.svg)![Proton Drive](/web/20230709022437im_/https://proton.me/static/51faf81a7fe7486d525176ab97cb2d94/proton-drive-name-alone.svg)Secure cloud storage that gives you control of your data.](https://proton.me/drive)[![](/web/20230709022437im_/https://proton.me/static/da4b71b9f3a89bdd24bd642039382594/proton-vpn-badge.svg)![Proton VPN](/web/20230709022437im_/https://proton.me/static/f796009edf370cf077a04ee6463482f0/proton-vpn-name-alone.svg)Your gateway to online freedom.(new window)](https://protonvpn.com/)[![](/web/20230709022437im_/https://proton.me/static/4bb7d35efc3b86c11a4e59cc286aac93/proton-pass-badge.svg)![Proton Pass](/web/20230709022437im_/https://proton.me/static/a1ce97aaf932207dc9816f7407cd0b61/proton-pass-name-alone.svg)An encrypted password manager that protects your online identity.](https://proton.me/pass)
+[![](/web/20230716101927im_/https://proton.me/static/fc5b1e8b92dd09734ca7c9d91e89db93/proton-mail-badge.svg)![Proton Mail](/web/20230716101927im_/https://proton.me/static/fce3bdbd67e2fb6608b95b1ea86671af/proton-mail-name-alone.svg)Encrypted email that's private by default.](https://proton.me/mail)[![](/web/20230716101927im_/https://proton.me/static/e8c55eda314dfefc4c7e1bf3b0c96fda/proton-calendar-badge.svg)![Proton Calendar](/web/20230716101927im_/https://proton.me/static/77e254172f7a11ea17873aedd13eb3ef/proton-calendar-name-alone.svg)Your calendar is a record of your life. Keep it safe.](https://proton.me/calendar)[![](/web/20230716101927im_/https://proton.me/static/704d9ef7f6b6a5a521beb656e3a00db0/proton-drive-badge.svg)![Proton Drive](/web/20230716101927im_/https://proton.me/static/51faf81a7fe7486d525176ab97cb2d94/proton-drive-name-alone.svg)Secure cloud storage that gives you control of your data.](https://proton.me/drive)[![](/web/20230716101927im_/https://proton.me/static/da4b71b9f3a89bdd24bd642039382594/proton-vpn-badge.svg)![Proton VPN](/web/20230716101927im_/https://proton.me/static/f796009edf370cf077a04ee6463482f0/proton-vpn-name-alone.svg)Your gateway to online freedom.(new window)](https://protonvpn.com/)[![](/web/20230716101927im_/https://proton.me/static/4bb7d35efc3b86c11a4e59cc286aac93/proton-pass-badge.svg)![Proton Pass](/web/20230716101927im_/https://proton.me/static/a1ce97aaf932207dc9816f7407cd0b61/proton-pass-name-alone.svg)An encrypted password manager that protects your online identity.](https://proton.me/pass)
 
-[![Proton for Business](/web/20230709022437im_/https://proton.me/static/686fc2462275e72c9c44b2e095bd2fd8/proton-for-business.svg)Improve the security of your business and comply with data protection laws.](https://proton.me/business)
+[![Proton for Business](/web/20230716101927im_/https://proton.me/static/686fc2462275e72c9c44b2e095bd2fd8/proton-for-business.svg)Improve the security of your business and comply with data protection laws.](https://proton.me/business)
 
   * Who we are
 
@@ -46,16 +46,16 @@ Open menu
 
 Last modified: June 26th, 2023
 
-By using the proton.me or protonvpn.com website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass (the “Services”), you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland. Use of your Account or the Services includes registering an Account, keeping an Account open (not deleted by you or not deleted or deactivated by Proton), or accessing our website or mobile/desktop applications, or making use of our services. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.  
-  
+By using the proton.me or protonvpn.com website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass (the “Services”), you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland. Use of your Account or the Services includes registering an Account, keeping an Account open (not deleted by you or not deleted or deactivated by Proton), or accessing our website or mobile/desktop applications, or making use of our services. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
+
 If you agree to these Terms on behalf of a company or another legal entity, you represent that you have the authority to bind such entity, its affiliates, and all users who access the Services through your Account to these Terms. In the absence of such an authority, you are not authorized to use the Services.
 
 ## 1\. Users of the Services
 
-The Services are provided exclusively to individuals who are at least 13 years of age, and even then, only to minors who have obtained parental or legal guardian consent to open and maintain an Account.  
-  
-The Services are provided exclusively to persons or legal entities. Accounts registered by “bots” or automated methods are not authorized and will be terminated.  
-  
+The Services are provided exclusively to individuals who are at least 13 years of age, and even then, only to minors who have obtained parental or legal guardian consent to open and maintain an Account.
+
+The Services are provided exclusively to persons or legal entities. Accounts registered by “bots” or automated methods are not authorized and will be terminated.
+
 Each user is solely responsible for all actions performed through the Services.
 
 ## 2\. Authorized use of the Services
@@ -78,32 +78,32 @@ You agree not to use your Account or the Services for any illegal or prohibited 
 
 
 
-Any Account found to be committing the listed unauthorized activities will be immediately suspended.  
-  
-The Company may also terminate Accounts which are being used for illegal activities that are not listed above, particularly in response to orders from the competent authorities informing of such illegal activity.  
-  
+Any Account found to be committing the listed unauthorized activities will be immediately suspended.
+
+The Company may also terminate Accounts which are being used for illegal activities that are not listed above, particularly in response to orders from the competent authorities informing of such illegal activity.
+
 The Company reserves the right to suspend or delete free Accounts that have been inactive for a consecutive period of twelve months. For more information, we invite you to read our [inactive account policy](https://proton.me/support/inactive-accounts).
 
 If you would like to contest the suspension of your account, please submit an appeal through our [Abuse Appeal Form](https://proton.me/support/appeal-abuse).
 
 ## 3\. Limited warranties and liability
 
-The Company does not make any warranty about the reliability of the Services or the security of user data, despite best efforts. The Service is provided “as is” and “as available,” without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, title, accuracy, non-infringement, or warranties that may arise from course of dealing or course of performance or usage of trade.  
-  
-The Company has no obligation to store or forward the contents of terminated Accounts. We also have no obligation to store messages or contents for accounts that exceed their storage quotas. Furthermore, you will not hold the Company liable or seek indemnification if confidential material is unintentionally released as the result of a security failure or vulnerability in the performance of the Services. Due to the encrypted nature of the Services, you acknowledge that the Company has no ability or obligation to recover your data if you misplace your password.  
-  
-To the extent not prohibited by law, you acknowledge and agree that in no event will the Company be responsible or liable to you or any third party, under any theory of responsibility or liability, for any indirect, special, exemplary, incidental, consequential, or punitive damages (including, but not limited to, procurement of substitute goods or services; loss of data, use, or profits; business interruptions; or any other damages or losses), for any multiplier on or increase to damages, or for any costs or fees (including attorneys’ fees), whether under these Terms or otherwise, arising in any way in connection with your Account, the Services, or these Terms, whether arising at law, in equity, or otherwise, and whether based in contract, strict liability, tort (including negligence or otherwise), common law, statute, equity, or otherwise, even if we have been advised of the possibility of such damage, or for any other claim, demand, or damages whatsoever, arising out of or related to your use or inability to use your Account or the Services.  
-  
-Without limitation of the foregoing, and to the extent not prohibited by law, the total liability of the Company’s parties for any reason whatsoever arising out of or related to the use of, or inability to use, your Account or the Services, or these Terms, shall not exceed $100, or the amount you paid us, if any, for use of your Account or the Services, whichever amount is greater. This liability, if any, shall be complete and exclusive. The foregoing limitations will apply even if the above stated remedy fails of its essential purpose.  
-  
-Applicable law in some locations, such as the State of New Jersey, does not allow the waiver of implied warranties, the limitation of liability of certain damages set forth above, including the provisions of this section that limit or exclude special, exemplary, consequential, or punitive damages, or limit or exclude the use of any multiplier on or increase to damages, and limit the liability of the Company or any of the Company’s parties, to the greater of either $100 or the amount paid by you for use of your Account or the Services. These limitations or exclusions may not apply to you. The provisions of this section do not apply to the extent, and only to the extent, not permitted by applicable law.  
-  
+The Company does not make any warranty about the reliability of the Services or the security of user data, despite best efforts. The Service is provided “as is” and “as available,” without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, title, accuracy, non-infringement, or warranties that may arise from course of dealing or course of performance or usage of trade.
+
+The Company has no obligation to store or forward the contents of terminated Accounts. We also have no obligation to store messages or contents for accounts that exceed their storage quotas. Furthermore, you will not hold the Company liable or seek indemnification if confidential material is unintentionally released as the result of a security failure or vulnerability in the performance of the Services. Due to the encrypted nature of the Services, you acknowledge that the Company has no ability or obligation to recover your data if you misplace your password.
+
+To the extent not prohibited by law, you acknowledge and agree that in no event will the Company be responsible or liable to you or any third party, under any theory of responsibility or liability, for any indirect, special, exemplary, incidental, consequential, or punitive damages (including, but not limited to, procurement of substitute goods or services; loss of data, use, or profits; business interruptions; or any other damages or losses), for any multiplier on or increase to damages, or for any costs or fees (including attorneys’ fees), whether under these Terms or otherwise, arising in any way in connection with your Account, the Services, or these Terms, whether arising at law, in equity, or otherwise, and whether based in contract, strict liability, tort (including negligence or otherwise), common law, statute, equity, or otherwise, even if we have been advised of the possibility of such damage, or for any other claim, demand, or damages whatsoever, arising out of or related to your use or inability to use your Account or the Services.
+
+Without limitation of the foregoing, and to the extent not prohibited by law, the total liability of the Company’s parties for any reason whatsoever arising out of or related to the use of, or inability to use, your Account or the Services, or these Terms, shall not exceed $100, or the amount you paid us, if any, for use of your Account or the Services, whichever amount is greater. This liability, if any, shall be complete and exclusive. The foregoing limitations will apply even if the above stated remedy fails of its essential purpose.
+
+Applicable law in some locations, such as the State of New Jersey, does not allow the waiver of implied warranties, the limitation of liability of certain damages set forth above, including the provisions of this section that limit or exclude special, exemplary, consequential, or punitive damages, or limit or exclude the use of any multiplier on or increase to damages, and limit the liability of the Company or any of the Company’s parties, to the greater of either $100 or the amount paid by you for use of your Account or the Services. These limitations or exclusions may not apply to you. The provisions of this section do not apply to the extent, and only to the extent, not permitted by applicable law.
+
 IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE § 1542, WHICH SAYS: A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE AND THAT, IF KNOWN BY HIM OR HER, WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR RELEASED PARTY.
 
 ## 4\. Service level agreement (SLA)
 
-The Company aims to provide Service availability of 99.95% or better. If downtime in any month exceeds 0.05% of that month, the Company will credit the user’s Account. Service credits are applied at the user’s request and will apply toward the balance due at the end of the next billing cycle (either monthly or yearly).  
-  
+The Company aims to provide Service availability of 99.95% or better. If downtime in any month exceeds 0.05% of that month, the Company will credit the user’s Account. Service credits are applied at the user’s request and will apply toward the balance due at the end of the next billing cycle (either monthly or yearly).
+
 The Company calculates service credits in the following way:
 
   * If the monthly uptime is less than 99.95% but equal to or greater than 99.0%, the service credit is equal to 10% of the Service’s monthly cost;
@@ -137,23 +137,23 @@ All trademarks, service marks, logos, trade names, and other proprietary designa
 
 ## 8\. Terms of payment
 
-Subscriptions for the Services are charged on a monthly, yearly or bi-yearly billing cycle, depending on your selection. After the initial term, the subscription is renewed automatically for the same selected duration unless canceled or modified by you. Credit balances are automatically deducted accordingly. You are responsible for keeping payment information in relation with your Account up to date.  
-  
-You may cancel your subscription within 30 days of the initial purchase and receive a refund for any unused portion of the service period. Here, any unused portion of the service period refers to the prorated remaining full days of the subscription period. Refunds will be processed within 30 days of the request. We may also provide you with a full refund upon request if you are using Proton VPN or Proton Drive. To request a refund, please contact us using our support form. For the sake of clarity, the cancellation and the request for refund must both be addressed within the 30-day period. Payments made by cash or bank transfers are not refundable. **Refunds can only be requested once per user**.**** This refund option is only applicable to users who have subscribed to Proton's Services directly through Proton's official channels (website and apps). If you have subscribed to Proton's Services through the intermediary of a third-party, please refer to their respective refund policy.  
-  
-Past the abovementioned 30-day period, the Services provided by the Company are generally non-refundable and any refund or credit given will be at the sole discretion of the Company. Paid Accounts which are terminated due to a violation of these Terms will incur the loss of all payments and credits and are not eligible for refund.  
-  
-If the Company chooses to issue a refund for any reason, the Company will only refund in the original currency of payment. If you request a credit balance to be converted between different currencies which the Company supports, the Company has discretion over the exchange rate applied.  
-  
-If you fail to fulfill your obligation of payment as a user of a paid Account, we may suspend your Account or delete it after an extended period of default.  
-  
+Subscriptions for the Services are charged on a monthly, yearly or bi-yearly billing cycle, depending on your selection. After the initial term, the subscription is renewed automatically for the same selected duration unless canceled or modified by you. Credit balances are automatically deducted accordingly. You are responsible for keeping payment information in relation with your Account up to date.
+
+You may cancel your subscription within 30 days of the initial purchase and receive a refund for any unused portion of the service period. Here, any unused portion of the service period refers to the prorated remaining full days of the subscription period. Refunds will be processed within 30 days of the request. We may also provide you with a full refund upon request if you are using Proton VPN or Proton Drive. To request a refund, please contact us using our support form. For the sake of clarity, the cancellation and the request for refund must both be addressed within the 30-day period. Payments made by cash or bank transfers are not refundable. **Refunds can only be requested once per user**. This refund option is only applicable to users who have subscribed to Proton's Services directly through Proton's official channels (website and apps). If you have subscribed to Proton's Services through the intermediary of a third-party, please refer to their respective refund policy.
+
+Past the abovementioned 30-day period, the Services provided by the Company are generally non-refundable and any refund or credit given will be at the sole discretion of the Company. Paid Accounts which are terminated due to a violation of these Terms will incur the loss of all payments and credits and are not eligible for refund.
+
+If the Company chooses to issue a refund for any reason, the Company will only refund in the original currency of payment. If you request a credit balance to be converted between different currencies which the Company supports, the Company has discretion over the exchange rate applied.
+
+If you fail to fulfill your obligation of payment as a user of a paid Account, we may suspend your Account or delete it after an extended period of default.
+
 If you rely on dispute or chargeback mechanisms of third-party payment processors, you waive your right to the above-mentioned refund from the Company and consent to rely upon the dispute resolution procedure of the third-party payment processor. Furthermore, if the result of the dispute or chargeback mechanisms causes the Company to be liable for additional costs (e.g. dispute fee), you authorize the Company to charge that amount on your account.
 
 ## 9\. Modification of plan or billing cycle
 
 **Modification of plan**
 
-If you select a new paid plan, your subscription will be immediately updated, and you will receive a prorated credit for the un-used portion of your previous plan that will be automatically applied to your account.
+If you select a new paid plan, your subscription will be immediately updated, and you will receive a prorated credit for the unused portion of your previous plan that will be automatically applied to your account.
 
 **Cancellation of plan**
 
@@ -161,13 +161,13 @@ If you do not want your plan to renew, you need to downgrade your plan before th
 
 **If you have a Proton VPN Plus account** , when you cancel your Proton VPN Plus plan (downgrade), the cancellation is applied at the end of the current cycle.
 
-**For all other Plans** , Proton does not automatically remove paid features on your behalf (for instance, if you are over the free plan storage quota, we do not randomly delete data to fit the free plan storage quota), so you must first remove paid features before downgrading. If you downgrade before the end of your subscription period, we will provide you with an Account credit for the un-used portion of your subscription. Credits obtained this way must be used within 24 months or expire.
+**For all other Plans** , Proton does not automatically remove paid features on your behalf (for instance, if you are over the free plan storage quota, we do not randomly delete data to fit the free plan storage quota), so you must first remove paid features before downgrading. If you downgrade before the end of your subscription period, we will provide you with an Account credit for the unused portion of your subscription. Credits obtained this way must be used within 24 months or expire.
 
 **Modification of billing cycle**
 
 If you increase the billing cycle of your subscription (e.g. from 1 month to 1 year), the change is applied at the end of your current subscription cycle.
 
-If you decrease the billing cycle of you subscription, the change is applied immediately.
+If you decrease the billing cycle of your subscription, the change is applied immediately.
 
 ## 10\. Modification to the terms of service
 
@@ -205,7 +205,13 @@ You and the Company also agree that for disputes or claims where both injunctive
 
 Any litigation in court of the foregoing types of disputes (except for small claims court actions) may be commenced only in a federal or state court located within county (or parish) and State in which you reside, and you and the Company each consent to the jurisdiction of those courts for such purposes. Regardless of whether the foregoing types of disputes in this section are resolved by a court or pursuant to arbitration, you and the Company agree that the dispute is subject to the class action waiver provision set forth below.
 
-_**How arbitration works.**_ Either party may initiate arbitration of a dispute, which will be settled by final and binding arbitration, using the English language, administered by AAA under the AAA Rules then in effect (those rules are deemed to be incorporated by reference into this section, and as of the date of these Terms), and the parties expressly waive any and all rights to appeal any order or judgment of the arbitrator or seek confirmation of an order or judgment of the arbitrator to the extent permitted by applicable law. Unless you and the Company agree otherwise, including to conduct the arbitration by telephone or videoconference, any arbitration hearing shall take place in the county (or parish) and State where you reside, unless the arbitrator determines that a different location would better serve the convenience of the parties. Payment of all filing, administration, and arbitrator costs and expenses will be governed by the AAA Rules, except that if you demonstrate that any such costs and expenses owed by you under those rules would be prohibitively more expensive than a court proceeding, the Company will pay the amount of any such costs and expenses that the arbitrator determines are necessary to prevent the arbitration from being prohibitively more expensive than a court proceeding (subject to possible reimbursement as set forth below). Each party is responsible for his, her, their or its own attorneys’ fees and expenses, and the Company will not pay your attorneys’ fees or expenses except to the extent ordered to do so by the arbitrator. If you prevail in arbitration, however, you will be entitled to an award of reasonable attorneys’ fees and expenses to the extent allowed for under applicable law and ordered by the arbitrator. In the event the arbitrator determines the claim you asserted in the arbitration to be frivolous according to Federal Rule of Civil Procedure 11, or brought for an improper purpose, you agree to reimburse the Company for all fees associated with the arbitration paid by the Company that you otherwise would have been obligated to pay under the AAA Rules. In determining whether an action is frivolous, the arbitrator may consider whether the Company has offered you a full refund of the sum you paid for items you purchased from the Company or has otherwise offered full relief to you in relation to your individual claim. If the arbitrator, upon final disposition of the case, finds your dispute was not frivolous, the Company will reimburse any filing fees that you paid and were not otherwise reimbursed. Judgment on the arbitration award may be entered in any court that has jurisdiction. Any arbitration under these Terms will take place on an individual basis – class arbitrations and class actions are not permitted. You understand that by agreeing to these Terms, you and the Company are each waiving the right to trial by jury or to participate in a class action or class arbitration.
+_**How arbitration works.**_ Either party may initiate arbitration of a dispute, which will be settled by final and binding arbitration, using the English language, administered by AAA under the AAA Rules then in effect (those rules are deemed to be incorporated by reference into this section, and as of the date of these Terms), and the parties expressly waive any and all rights to appeal any order or judgment of the arbitrator or seek confirmation of an order or judgment of the arbitrator to the extent permitted by applicable law.
+
+Unless you and the Company agree otherwise, including to conduct the arbitration by telephone or videoconference, any arbitration hearing shall take place in the county (or parish) and State where you reside, unless the arbitrator determines that a different location would better serve the convenience of the parties. Payment of all filing, administration, and arbitrator costs and expenses will be governed by the AAA Rules, except that if you demonstrate that any such costs and expenses owed by you under those rules would be prohibitively more expensive than a court proceeding, the Company will pay the amount of any such costs and expenses that the arbitrator determines are necessary to prevent the arbitration from being prohibitively more expensive than a court proceeding (subject to possible reimbursement as set forth below).
+
+Each party is responsible for his, her, their or its own attorneys’ fees and expenses, and the Company will not pay your attorneys’ fees or expenses except to the extent ordered to do so by the arbitrator. If you prevail in arbitration, however, you will be entitled to an award of reasonable attorneys’ fees and expenses to the extent allowed for under applicable law and ordered by the arbitrator. In the event the arbitrator determines the claim you asserted in the arbitration to be frivolous according to Federal Rule of Civil Procedure 11, or brought for an improper purpose, you agree to reimburse the Company for all fees associated with the arbitration paid by the Company that you otherwise would have been obligated to pay under the AAA Rules.
+
+In determining whether an action is frivolous, the arbitrator may consider whether the Company has offered you a full refund of the sum you paid for items you purchased from the Company or has otherwise offered full relief to you in relation to your individual claim. If the arbitrator, upon final disposition of the case, finds your dispute was not frivolous, the Company will reimburse any filing fees that you paid and were not otherwise reimbursed. Judgment on the arbitration award may be entered in any court that has jurisdiction. Any arbitration under these Terms will take place on an individual basis – class arbitrations and class actions are not permitted. You understand that by agreeing to these Terms, you and the Company are each waiving the right to trial by jury or to participate in a class action or class arbitration.
 
 _**Class action waiver.**_ To the fullest extent permitted by applicable law, you and the Company each agree that any proceeding to resolve any dispute, claim, or controversy will be brought and conducted only in the respective party’s individual capacity and not as part of any class (or purported class), consolidated, multiple-plaintiff, or representative action or proceeding (“class action”). You and the Company agree to waive the right to participate as a plaintiff or class member in any class action. You and the Company expressly waive any ability to maintain a class action in any forum. If the dispute is subject to arbitration, the arbitrator will not have the authority to combine or aggregate claims, conduct a class action, or make an award to any person or entity not a party to the arbitration. Further, you and the Company agree that the arbitrator may not consolidate proceedings for more than one person’s claims, and it may not otherwise preside over any form of a class action. For the avoidance of doubt, however, you can seek public injunctive relief to the extent authorized by law and consistent with the exceptions clause above.
 
@@ -256,11 +262,11 @@ On this page
 
 
 
-[![Proton homepage](/web/20230709022437im_/https://proton.me/static/20516d7ff0028940fc82f628f55d6fe6/proton-logo-p.svg)](https://proton.me/)
+[![Proton homepage](/web/20230716101927im_/https://proton.me/static/20516d7ff0028940fc82f628f55d6fe6/proton-logo-p.svg)](https://proton.me/)
 
 Proton - Privacy by default
 
-[![Follow us on Twitter](/web/20230709022437im_/https://proton.me/static/d8877cba4d361f2aef531ffd5228e02a/twitter-visible-purple.svg)(new window)](https://twitter.com/ProtonPrivacy)[![Follow us on Reddit](/web/20230709022437im_/https://proton.me/static/b848fb91c420810b55cb692629d9ab94/reddit-visible-purple.svg)(new window)](https://www.reddit.com/r/ProtonMail)[![Follow us on Instagram](/web/20230709022437im_/https://proton.me/static/6296d04c14b4c8e06e984d4a6c56cd97/instagram-visible-purple.svg)(new window)](https://www.instagram.com/protonprivacy)[![Follow us on Facebook](/web/20230709022437im_/https://proton.me/static/79284745da622606c43dcb4fb2cf3414/facebook-visible-purple.svg)(new window)](https://www.facebook.com/Proton)[![Follow us on LinkedIn](/web/20230709022437im_/https://proton.me/static/67882974928e0c6b4f37f9f0d5bab628/linkedin-visible-purple.svg)(new window)](https://www.linkedin.com/company/protonprivacy)
+[![Follow us on Twitter](/web/20230716101927im_/https://proton.me/static/d8877cba4d361f2aef531ffd5228e02a/twitter-visible-purple.svg)(new window)](https://twitter.com/ProtonPrivacy)[![Follow us on Reddit](/web/20230716101927im_/https://proton.me/static/b848fb91c420810b55cb692629d9ab94/reddit-visible-purple.svg)(new window)](https://www.reddit.com/r/ProtonMail)[![Follow us on Instagram](/web/20230716101927im_/https://proton.me/static/6296d04c14b4c8e06e984d4a6c56cd97/instagram-visible-purple.svg)(new window)](https://www.instagram.com/protonprivacy)[![Follow us on Facebook](/web/20230716101927im_/https://proton.me/static/79284745da622606c43dcb4fb2cf3414/facebook-visible-purple.svg)(new window)](https://www.facebook.com/Proton)[![Follow us on LinkedIn](/web/20230716101927im_/https://proton.me/static/67882974928e0c6b4f37f9f0d5bab628/linkedin-visible-purple.svg)(new window)](https://www.linkedin.com/company/protonprivacy)
 
 Products
 
@@ -268,7 +274,7 @@ Products
   * [Proton Calendar](https://proton.me/calendar)
   * [Proton Drive](https://proton.me/drive)
   * [Proton VPN(new window)](https://protonvpn.com/)
-  * [Proton Pass](https://proton.me/pass)
+  * [Proton Pass](https://proton.me/pass)Beta
 
   * [Proton for Business](https://proton.me/business)
 
@@ -312,7 +318,7 @@ Products
   * [Proton Calendar](https://proton.me/calendar)
   * [Proton Drive](https://proton.me/drive)
   * [Proton VPN(new window)](https://protonvpn.com/)
-  * [Proton Pass](https://proton.me/pass)
+  * [Proton Pass](https://proton.me/pass)Beta
 
   * [Proton for Business](https://proton.me/business)
 
@@ -358,7 +364,7 @@ Route de la Galaise 321228 Plan-les-OuatesGeneva, Switzerland
 
 Built with support from
 
-![Swiss Confederation](/web/20230709022437im_/https://proton.me/static/a93472e99001d38ecd9656158cd50bff/swiss-confederation.svg)
+![Swiss Confederation](/web/20230716101927im_/https://proton.me/static/a93472e99001d38ecd9656158cd50bff/swiss-confederation.svg)
 
 Schweizerische Eidgenossenschaft
 
@@ -372,7 +378,7 @@ Swiss Confederation
 
 Innosuisse - Swiss Innovation Agency
 
-![European flag](/web/20230709022437im_/https://proton.me/static/719e5d9ebfe98520832012136811bb81/european-flag.svg)
+![European flag](/web/20230716101927im_/https://proton.me/static/719e5d9ebfe98520832012136811bb81/european-flag.svg)
 
 This project is supported  
 by the European Union's  
