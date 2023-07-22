@@ -1,10 +1,10 @@
-[![Proton](/web/20230716101927im_/https://proton.me/static/5739c69ac1a01c887e1d8b3154f15b5a/proton-logo.svg)](https://proton.me/)
+[![Proton](/web/20230722135919im_/https://proton.me/static/5739c69ac1a01c887e1d8b3154f15b5a/proton-logo.svg)](https://proton.me/)
 
   * Products
 
-[![](/web/20230716101927im_/https://proton.me/static/fc5b1e8b92dd09734ca7c9d91e89db93/proton-mail-badge.svg)![Proton Mail](/web/20230716101927im_/https://proton.me/static/fce3bdbd67e2fb6608b95b1ea86671af/proton-mail-name-alone.svg)Encrypted email that's private by default.](https://proton.me/mail)[![](/web/20230716101927im_/https://proton.me/static/e8c55eda314dfefc4c7e1bf3b0c96fda/proton-calendar-badge.svg)![Proton Calendar](/web/20230716101927im_/https://proton.me/static/77e254172f7a11ea17873aedd13eb3ef/proton-calendar-name-alone.svg)Your calendar is a record of your life. Keep it safe.](https://proton.me/calendar)[![](/web/20230716101927im_/https://proton.me/static/704d9ef7f6b6a5a521beb656e3a00db0/proton-drive-badge.svg)![Proton Drive](/web/20230716101927im_/https://proton.me/static/51faf81a7fe7486d525176ab97cb2d94/proton-drive-name-alone.svg)Secure cloud storage that gives you control of your data.](https://proton.me/drive)[![](/web/20230716101927im_/https://proton.me/static/da4b71b9f3a89bdd24bd642039382594/proton-vpn-badge.svg)![Proton VPN](/web/20230716101927im_/https://proton.me/static/f796009edf370cf077a04ee6463482f0/proton-vpn-name-alone.svg)Your gateway to online freedom.(new window)](https://protonvpn.com/)[![](/web/20230716101927im_/https://proton.me/static/4bb7d35efc3b86c11a4e59cc286aac93/proton-pass-badge.svg)![Proton Pass](/web/20230716101927im_/https://proton.me/static/a1ce97aaf932207dc9816f7407cd0b61/proton-pass-name-alone.svg)An encrypted password manager that protects your online identity.](https://proton.me/pass)
+[![](/web/20230722135919im_/https://proton.me/static/fc5b1e8b92dd09734ca7c9d91e89db93/proton-mail-badge.svg)![Proton Mail](/web/20230722135919im_/https://proton.me/static/fce3bdbd67e2fb6608b95b1ea86671af/proton-mail-name-alone.svg)Encrypted email that's private by default.](https://proton.me/mail)[![](/web/20230722135919im_/https://proton.me/static/e8c55eda314dfefc4c7e1bf3b0c96fda/proton-calendar-badge.svg)![Proton Calendar](/web/20230722135919im_/https://proton.me/static/77e254172f7a11ea17873aedd13eb3ef/proton-calendar-name-alone.svg)Your calendar is a record of your life. Keep it safe.](https://proton.me/calendar)[![](/web/20230722135919im_/https://proton.me/static/704d9ef7f6b6a5a521beb656e3a00db0/proton-drive-badge.svg)![Proton Drive](/web/20230722135919im_/https://proton.me/static/51faf81a7fe7486d525176ab97cb2d94/proton-drive-name-alone.svg)Secure cloud storage that gives you control of your data.](https://proton.me/drive)[![](/web/20230722135919im_/https://proton.me/static/da4b71b9f3a89bdd24bd642039382594/proton-vpn-badge.svg)![Proton VPN](/web/20230722135919im_/https://proton.me/static/f796009edf370cf077a04ee6463482f0/proton-vpn-name-alone.svg)Your gateway to online freedom.(new window)](https://protonvpn.com/)[![](/web/20230722135919im_/https://proton.me/static/4bb7d35efc3b86c11a4e59cc286aac93/proton-pass-badge.svg)![Proton Pass](/web/20230722135919im_/https://proton.me/static/a1ce97aaf932207dc9816f7407cd0b61/proton-pass-name-alone.svg)An encrypted password manager that protects your online identity.](https://proton.me/pass)
 
-[![Proton for Business](/web/20230716101927im_/https://proton.me/static/686fc2462275e72c9c44b2e095bd2fd8/proton-for-business.svg)Improve the security of your business and comply with data protection laws.](https://proton.me/business)
+[![Proton for Business](/web/20230722135919im_/https://proton.me/static/686fc2462275e72c9c44b2e095bd2fd8/proton-for-business.svg)Improve the security of your business and comply with data protection laws.](https://proton.me/business)
 
   * Who we are
 
@@ -20,7 +20,7 @@ Get started
 
 * * *
 
-[Switch to ProtonMove to Proton in just a few clicks with Easy Switch.](https://proton.me/easyswitch)[Privacy NewsletterGet our latest privacy tips, guides, and news analysis.](https://proton.me/newsletter)
+[Switch to ProtonMove to Proton in just a few clicks with Easy Switch.](https://proton.me/easyswitch)
 
 Resources
 
@@ -38,7 +38,7 @@ Download the apps
 
 
 
-[Sign in(new window)](https://account.proton.me/login?product=generic&language=en)[Create a free account](https://proton.me/pricing)
+[Sign in](https://account.proton.me/login?product=generic&language=en)[Create a free account](https://proton.me/pricing)
 
 Open menu
 
@@ -262,11 +262,11 @@ On this page
 
 
 
-[![Proton homepage](/web/20230716101927im_/https://proton.me/static/20516d7ff0028940fc82f628f55d6fe6/proton-logo-p.svg)](https://proton.me/)
+[![Proton homepage](/web/20230722135919im_/https://proton.me/static/20516d7ff0028940fc82f628f55d6fe6/proton-logo-p.svg)](https://proton.me/)
 
 Proton - Privacy by default
 
-[![Follow us on Twitter](/web/20230716101927im_/https://proton.me/static/d8877cba4d361f2aef531ffd5228e02a/twitter-visible-purple.svg)(new window)](https://twitter.com/ProtonPrivacy)[![Follow us on Reddit](/web/20230716101927im_/https://proton.me/static/b848fb91c420810b55cb692629d9ab94/reddit-visible-purple.svg)(new window)](https://www.reddit.com/r/ProtonMail)[![Follow us on Instagram](/web/20230716101927im_/https://proton.me/static/6296d04c14b4c8e06e984d4a6c56cd97/instagram-visible-purple.svg)(new window)](https://www.instagram.com/protonprivacy)[![Follow us on Facebook](/web/20230716101927im_/https://proton.me/static/79284745da622606c43dcb4fb2cf3414/facebook-visible-purple.svg)(new window)](https://www.facebook.com/Proton)[![Follow us on LinkedIn](/web/20230716101927im_/https://proton.me/static/67882974928e0c6b4f37f9f0d5bab628/linkedin-visible-purple.svg)(new window)](https://www.linkedin.com/company/protonprivacy)
+[![Follow us on Twitter](/web/20230722135919im_/https://proton.me/static/495b144569d773bb8b8b83086fcb5db8/twitter-purple.svg)(new window)](https://twitter.com/ProtonPrivacy)[![Follow us on Reddit](/web/20230722135919im_/https://proton.me/static/7ac5175420efc3ce04109fea713aca0d/reddit-purple.svg)(new window)](https://www.reddit.com/r/ProtonMail)[![Follow us on Instagram](/web/20230722135919im_/https://proton.me/static/dc74e1407552b915ce4f8a71a9fada68/instagram-purple.svg)(new window)](https://www.instagram.com/protonprivacy)[![Follow us on Facebook](/web/20230722135919im_/https://proton.me/static/694f0e09b59a0dc3f691538e2a4a9b99/facebook-purple.svg)(new window)](https://www.facebook.com/Proton)[![Follow us on LinkedIn](/web/20230722135919im_/https://proton.me/static/0447bd4f684c346ac11e0d9e8ad90988/linkedin-purple.svg)(new window)](https://www.linkedin.com/company/protonprivacy)[![Follow us on Mastodon](/web/20230722135919im_/https://proton.me/static/9b967ca217e8a24da79f0da0805b23ca/mastodon-purple.svg)(new window)](https://digitalcourage.social/@protonmail@mastodon.social)[![Follow us on YouTube](/web/20230722135919im_/https://proton.me/static/c9dac26de3281409f14a7e9f954628c4/youtube-purple.svg)(new window)](https://www.youtube.com/@ProtonAG)
 
 Products
 
@@ -274,8 +274,7 @@ Products
   * [Proton Calendar](https://proton.me/calendar)
   * [Proton Drive](https://proton.me/drive)
   * [Proton VPN(new window)](https://protonvpn.com/)
-  * [Proton Pass](https://proton.me/pass)Beta
-
+  * [Proton Pass](https://proton.me/pass)
   * [Proton for Business](https://proton.me/business)
 
 
@@ -308,7 +307,6 @@ Connect
   * [Partners and affiliates](https://proton.me/partners)
   * [Press and media](https://proton.me/media)
   * [Contact us](https://proton.me/support/contact)
-  * [Newsletter](https://proton.me/newsletter)
 
 
 
@@ -318,8 +316,7 @@ Products
   * [Proton Calendar](https://proton.me/calendar)
   * [Proton Drive](https://proton.me/drive)
   * [Proton VPN(new window)](https://protonvpn.com/)
-  * [Proton Pass](https://proton.me/pass)Beta
-
+  * [Proton Pass](https://proton.me/pass)
   * [Proton for Business](https://proton.me/business)
 
 
@@ -352,7 +349,6 @@ Connect
   * [Partners and affiliates](https://proton.me/partners)
   * [Press and media](https://proton.me/media)
   * [Contact us](https://proton.me/support/contact)
-  * [Newsletter](https://proton.me/newsletter)
 
 
 
@@ -364,7 +360,7 @@ Route de la Galaise 321228 Plan-les-OuatesGeneva, Switzerland
 
 Built with support from
 
-![Swiss Confederation](/web/20230716101927im_/https://proton.me/static/a93472e99001d38ecd9656158cd50bff/swiss-confederation.svg)
+![Swiss Confederation](/web/20230722135919im_/https://proton.me/static/a93472e99001d38ecd9656158cd50bff/swiss-confederation.svg)
 
 Schweizerische Eidgenossenschaft
 
@@ -378,7 +374,7 @@ Swiss Confederation
 
 Innosuisse - Swiss Innovation Agency
 
-![European flag](/web/20230716101927im_/https://proton.me/static/719e5d9ebfe98520832012136811bb81/european-flag.svg)
+![European flag](/web/20230722135919im_/https://proton.me/static/719e5d9ebfe98520832012136811bb81/european-flag.svg)
 
 This project is supported  
 by the European Union's  
