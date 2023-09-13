@@ -1,10 +1,10 @@
-[![Proton](/web/20230817133136im_/https://proton.me/static/5739c69ac1a01c887e1d8b3154f15b5a/proton-logo.svg)](https://proton.me/)
+[![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233221/static/logos/proton-logo_z7innb.svg)](https://proton.me/)
 
   * Products
 
-[![](/web/20230817133136im_/https://proton.me/static/fc5b1e8b92dd09734ca7c9d91e89db93/proton-mail-badge.svg)![Proton Mail](/web/20230817133136im_/https://proton.me/static/fce3bdbd67e2fb6608b95b1ea86671af/proton-mail-name-alone.svg)Encrypted email that's private by default.](https://proton.me/mail)[![](/web/20230817133136im_/https://proton.me/static/e8c55eda314dfefc4c7e1bf3b0c96fda/proton-calendar-badge.svg)![Proton Calendar](/web/20230817133136im_/https://proton.me/static/77e254172f7a11ea17873aedd13eb3ef/proton-calendar-name-alone.svg)Your calendar is a record of your life. Keep it safe.](https://proton.me/calendar)[![](/web/20230817133136im_/https://proton.me/static/704d9ef7f6b6a5a521beb656e3a00db0/proton-drive-badge.svg)![Proton Drive](/web/20230817133136im_/https://proton.me/static/51faf81a7fe7486d525176ab97cb2d94/proton-drive-name-alone.svg)Secure cloud storage that gives you control of your data.](https://proton.me/drive)[![](/web/20230817133136im_/https://proton.me/static/da4b71b9f3a89bdd24bd642039382594/proton-vpn-badge.svg)![Proton VPN](/web/20230817133136im_/https://proton.me/static/f796009edf370cf077a04ee6463482f0/proton-vpn-name-alone.svg)Your gateway to online freedom.(new window)](https://protonvpn.com/)[![](/web/20230817133136im_/https://proton.me/static/4bb7d35efc3b86c11a4e59cc286aac93/proton-pass-badge.svg)![Proton Pass](/web/20230817133136im_/https://proton.me/static/a1ce97aaf932207dc9816f7407cd0b61/proton-pass-name-alone.svg)An encrypted password manager that protects your online identity.](https://proton.me/pass)
+[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233226/static/logos/proton-mail-badge_puvcia.svg)![Proton Mail](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233220/static/logos/proton-mail-name-alone_psnk6r.svg)Encrypted email that's private by default.](https://proton.me/mail)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233226/static/logos/proton-calendar-badge_b2dvlq.svg)![Proton Calendar](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233220/static/logos/proton-calendar-name-alone_zqda6h.svg)Your calendar is a record of your life. Keep it safe.](https://proton.me/calendar)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233226/static/logos/proton-drive-badge_mdkwag.svg)![Proton Drive](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233220/static/logos/proton-drive-name-alone_qywwja.svg)Secure cloud storage that gives you control of your data.](https://proton.me/drive)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233226/static/logos/proton-vpn-badge_woheus.svg)![Proton VPN](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233220/static/logos/proton-vpn-name-alone_ktpta7.svg)Your gateway to online freedom.(new window)](https://protonvpn.com/)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233226/static/logos/proton-pass-badge_gvwfkv.svg)![Proton Pass](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233220/static/logos/proton-pass-name-alone_fcex38.svg)An encrypted password manager that protects your online identity.](https://proton.me/pass)
 
-[![Proton for Business](/web/20230817133136im_/https://proton.me/static/686fc2462275e72c9c44b2e095bd2fd8/proton-for-business.svg)Improve the security of your business and comply with data protection laws.](https://proton.me/business)
+[![Proton for Business](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233220/static/logos/proton-for-business_tvcsuj.svg)Improve the security of your business and comply with data protection laws.](https://proton.me/business)
 
   * Who we are
 
@@ -44,7 +44,7 @@ Open menu
 
 # Terms of Service
 
-Last modified: August 15th, 2023
+Last modified: August 22nd, 2023
 
 By using the proton.me or protonvpn.com website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass (the “Services”), you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland. Use of your Account or the Services includes registering an Account, keeping an Account open (not deleted by you or not deleted or deactivated by Proton), or accessing our website or mobile/desktop applications, or making use of our services. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
 
@@ -123,6 +123,8 @@ Some performance issues are excluded from downtime calculations, such as:
 
 
 
+This SLA Section does not apply to the Dedicated IP feature of Proton VPN Business and Enterprise subscriptions. To ensure the best redundancy possible for those services, we recommend customers to configure back-up servers via the administrator control panel.
+
 ## 5\. Indemnification
 
 You agree that the Company, and any parents, subsidiaries, officers, directors, employees, agents, or third-party contractors (the "Indemnified Parties") cannot be held responsible for any third-party claim, demand, or damages, including reasonable attorneys’ fees, arising out of your use of your Account or the Services. You agree that the Indemnified Parties will have no liability in connection with any such third-party claim, demand, or damages, and you agree to indemnify any and all resulting loss, damages, judgments, awards, costs, expenses, and attorneys’ fees and litigation expenses of the Indemnified Parties in connection therewith. You will also indemnify and hold the Indemnified Parties harmless from and against any third-party claims, demands, or damages arising out of your use of your Account or the Services.
@@ -145,7 +147,7 @@ You may cancel your subscription within 30 days of the initial purchase and rece
 
 Past the abovementioned 30-day period, the Services provided by the Company are generally non-refundable and any refund or credit given will be at the sole discretion of the Company. Paid Accounts which are terminated due to a violation of these Terms will incur the loss of all payments and credits and are not eligible for refund.
 
-If the Company chooses to issue a refund for any reason, the Company will only refund in the original currency of payment. If you request a credit balance to be converted between different currencies which the Company supports, the Company has discretion over the exchange rate applied.
+If the Company chooses to issue a refund for any reason, The Company will only refund in the original currency of payment and to the original payment method. If you request a credit balance to be converted between different currencies which the Company supports, the Company has discretion over the exchange rate applied.
 
 If you fail to fulfill your obligation of payment as a user of a paid Account, we may suspend your Account or delete it after an extended period of default.
 
@@ -162,6 +164,8 @@ If you select a new paid plan, your subscription will be immediately updated, an
 If you do not want your plan to renew, you need to downgrade your plan before the end of your subscription period. 
 
 **If you have a Proton VPN Plus account** , when you cancel your Proton VPN Plus plan (downgrade), the cancellation is applied at the end of the current cycle.
+
+**If you have a Proton VPN Essentials, Business or Enterprise account** , you can terminate your subscription by sending a termination notice to your account representative or through our Customer Support Form at the latest 30 day before the renewal of your subscription. When you do so, the cancellation is applied at the end of the current cycle. If you notify us less than 30 days before the renewal date of your subscription, your plan will renew for another term and will be cancelled at the end of that new renewal cycle.
 
 **For all other Plans** , Proton does not automatically remove paid features on your behalf (for instance, if you are over the free plan storage quota, we do not randomly delete data to fit the free plan storage quota), so you must first remove paid features before downgrading. If you downgrade before the end of your subscription period, we will provide you with an Account credit for the unused portion of your subscription. Credits obtained this way must be used within 24 months or expire.
 
@@ -264,11 +268,11 @@ On this page
 
 
 
-[![Proton homepage](/web/20230817133136im_/https://proton.me/static/20516d7ff0028940fc82f628f55d6fe6/proton-logo-p.svg)](https://proton.me/)
+[![Proton homepage](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233221/static/logos/proton-logo-p_kftwpv.svg)](https://proton.me/)
 
 Proton - Privacy by default
 
-[![Follow us on Twitter](/web/20230817133136im_/https://proton.me/static/495b144569d773bb8b8b83086fcb5db8/twitter-purple.svg)(new window)](https://twitter.com/ProtonPrivacy)[![Follow us on Reddit](/web/20230817133136im_/https://proton.me/static/7ac5175420efc3ce04109fea713aca0d/reddit-purple.svg)(new window)](https://www.reddit.com/r/ProtonMail)[![Follow us on Instagram](/web/20230817133136im_/https://proton.me/static/dc74e1407552b915ce4f8a71a9fada68/instagram-purple.svg)(new window)](https://www.instagram.com/protonprivacy)[![Follow us on Facebook](/web/20230817133136im_/https://proton.me/static/694f0e09b59a0dc3f691538e2a4a9b99/facebook-purple.svg)(new window)](https://www.facebook.com/Proton)[![Follow us on LinkedIn](/web/20230817133136im_/https://proton.me/static/0447bd4f684c346ac11e0d9e8ad90988/linkedin-purple.svg)(new window)](https://www.linkedin.com/company/protonprivacy)[![Follow us on Mastodon](/web/20230817133136im_/https://proton.me/static/9b967ca217e8a24da79f0da0805b23ca/mastodon-purple.svg)(new window)](https://digitalcourage.social/@protonmail@mastodon.social)[![Follow us on YouTube](/web/20230817133136im_/https://proton.me/static/c9dac26de3281409f14a7e9f954628c4/youtube-purple.svg)(new window)](https://www.youtube.com/@ProtonAG)
+[![Follow us on Twitter](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/twitter-purple_avcvxk.svg)(new window)](https://twitter.com/ProtonPrivacy)[![Follow us on Reddit](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/reddit-purple_gznsmi.svg)(new window)](https://www.reddit.com/r/ProtonMail)[![Follow us on Instagram](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/instagram-purple_qrninv.svg)(new window)](https://www.instagram.com/protonprivacy)[![Follow us on Facebook](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/facebook-purple_gcxvti.svg)(new window)](https://www.facebook.com/Proton)[![Follow us on LinkedIn](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/linkedin-purple_zrlizy.svg)(new window)](https://www.linkedin.com/company/protonprivacy)[![Follow us on Mastodon](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/mastodon-purple_oepmfa.svg)(new window)](https://digitalcourage.social/@protonmail@mastodon.social)[![Follow us on YouTube](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/youtube-purple_nuezps.svg)(new window)](https://www.youtube.com/@ProtonAG)
 
 Products
 
@@ -362,7 +366,7 @@ Route de la Galaise 321228 Plan-les-OuatesGeneva, Switzerland
 
 Built with support from
 
-![Swiss Confederation](/web/20230817133136im_/https://proton.me/static/a93472e99001d38ecd9656158cd50bff/swiss-confederation.svg)
+![Swiss Confederation](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693295499/static/footer/swiss-confederation_pgkwwd.svg)
 
 Schweizerische Eidgenossenschaft
 
@@ -376,7 +380,7 @@ Swiss Confederation
 
 Innosuisse - Swiss Innovation Agency
 
-![European flag](/web/20230817133136im_/https://proton.me/static/719e5d9ebfe98520832012136811bb81/european-flag.svg)
+![European flag](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693295499/static/footer/european-flag_gdzr4j.svg)
 
 This project is supported  
 by the European Union's  
