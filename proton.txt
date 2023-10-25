@@ -274,47 +274,13 @@ Proton - Privacy by default
 
 [![Follow us on Twitter](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/twitter-purple_avcvxk.svg)(new window)](https://twitter.com/ProtonPrivacy)[![Follow us on Reddit](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/reddit-purple_gznsmi.svg)(new window)](https://www.reddit.com/r/ProtonMail)[![Follow us on Instagram](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/instagram-purple_qrninv.svg)(new window)](https://www.instagram.com/protonprivacy)[![Follow us on Facebook](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/facebook-purple_gcxvti.svg)(new window)](https://www.facebook.com/Proton)[![Follow us on LinkedIn](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/linkedin-purple_zrlizy.svg)(new window)](https://www.linkedin.com/company/protonprivacy)[![Follow us on Mastodon](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/mastodon-purple_oepmfa.svg)(new window)](https://digitalcourage.social/@protonmail@mastodon.social)[![Follow us on YouTube](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/youtube-purple_nuezps.svg)(new window)](https://www.youtube.com/@ProtonAG)
 
-Products
+### Products
 
-  * [Proton Mail](https://proton.me/mail)
-  * [Proton Calendar](https://proton.me/calendar)
-  * [Proton Drive](https://proton.me/drive)
-  * [Proton VPN(new window)](https://protonvpn.com/)
-  * [Proton Pass](https://proton.me/pass)
-  * [Proton for Business](https://proton.me/business)
+### Privacy and community
 
+### Company
 
-
-Privacy and community
-
-  * [Tor](https://proton.me/tor)
-  * [Switch to Proton](https://proton.me/easyswitch)
-  * [Community](https://proton.me/community)
-  * [Open source](https://proton.me/community/open-source)
-  * [Pricing](https://proton.me/pricing)
-
-
-
-Company
-
-  * [About us](https://proton.me/about)
-  * [Team](https://proton.me/about/team)
-  * [Impact](https://proton.me/about/impact)
-  * [Careers](https://proton.me/careers)We’re hiring
-
-  * [Shop(new window)](https://shop.proton.me/)
-
-
-
-Connect
-
-  * [Blog(new window)](https://proton.me/blog)
-  * [Help and support](https://proton.me/support)
-  * [Partners and affiliates](https://proton.me/partners)
-  * [Press and media](https://proton.me/media)
-  * [Contact us](https://proton.me/support/contact)
-
-
+### Connect
 
 Products
 
