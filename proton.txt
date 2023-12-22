@@ -268,59 +268,54 @@ On this page
 
 
 
-[![Proton homepage](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233221/static/logos/proton-logo-p_kftwpv.svg)](https://proton.me/)
+![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233221/static/logos/proton-logo-p_kftwpv.svg)
 
 Proton - Privacy by default
 
-[![Follow us on Twitter](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/twitter-purple_avcvxk.svg)(new window)](https://twitter.com/ProtonPrivacy)[![Follow us on Reddit](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/reddit-purple_gznsmi.svg)(new window)](https://www.reddit.com/r/ProtonMail)[![Follow us on Instagram](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/instagram-purple_qrninv.svg)(new window)](https://www.instagram.com/protonprivacy)[![Follow us on Facebook](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/facebook-purple_gcxvti.svg)(new window)](https://www.facebook.com/Proton)[![Follow us on LinkedIn](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/linkedin-purple_zrlizy.svg)(new window)](https://www.linkedin.com/company/protonprivacy)[![Follow us on Mastodon](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/mastodon-purple_oepmfa.svg)(new window)](https://digitalcourage.social/@protonmail@mastodon.social)[![Follow us on YouTube](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/youtube-purple_nuezps.svg)(new window)](https://www.youtube.com/@ProtonAG)
-
-### Products
-
-### Privacy and community
-
-### Company
-
-### Connect
-
-Products
-
-  * [Proton Mail](https://proton.me/mail)
-  * [Proton Calendar](https://proton.me/calendar)
-  * [Proton Drive](https://proton.me/drive)
-  * [Proton VPN(new window)](https://protonvpn.com/)
-  * [Proton Pass](https://proton.me/pass)
-  * [Proton for Business](https://proton.me/business)
+  * [![Twitter](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/x-purple.svg)(new window)](https://twitter.com/ProtonPrivacy)
+  * [![Reddit](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/reddit-purple_gznsmi.svg)(new window)](https://www.reddit.com/r/ProtonMail)
+  * [![Instagram](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/instagram-purple_qrninv.svg)(new window)](https://www.instagram.com/protonprivacy)
+  * [![Facebook](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/facebook-purple_gcxvti.svg)(new window)](https://www.facebook.com/Proton)
+  * [![Linkedin](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/linkedin-purple_zrlizy.svg)(new window)](https://www.linkedin.com/company/protonprivacy)
+  * [![Mastodon](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/mastodon-purple_oepmfa.svg)(new window)](https://mastodon.social/@protonmail)
+  * [![Rss](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/rss-purple.svg)(new window)](https://proton.me/blog/feed)
+  * [![Youtube](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/youtube-purple_nuezps.svg)(new window)](https://www.youtube.com/@ProtonAG)
 
 
 
-Privacy and community
+  * ### Products
 
-  * [Tor](https://proton.me/tor)
-  * [Switch to Proton](https://proton.me/easyswitch)
-  * [Community](https://proton.me/community)
-  * [Open source](https://proton.me/community/open-source)
-  * [Pricing](https://proton.me/pricing)
+  * Products
+    * [Proton Mail](https://proton.me/mail)
+    * [Proton Calendar](https://proton.me/calendar)
+    * [Proton Drive](https://proton.me/drive)
+    * [Proton VPN(new window)](https://protonvpn.com/)
+    * [Proton Pass](https://proton.me/pass)
+    * [Proton for Business](https://proton.me/business)
+  * ### Privacy and community
 
+  * Privacy and community
+    * [Tor](https://proton.me/tor)
+    * [Switch to Proton](https://proton.me/easyswitch)
+    * [Community](https://proton.me/community)
+    * [Open source](https://proton.me/community/open-source)
+    * [Pricing](https://proton.me/pricing)
+  * ### Company
 
+  * Company
+    * [About us](https://proton.me/about)
+    * [Team](https://proton.me/about/team)
+    * [Impact](https://proton.me/about/impact)
+    * [Careers We’re hiring](https://proton.me/careers)
+    * [Shop(new window)](https://shop.proton.me/)
+  * ### Connect
 
-Company
-
-  * [About us](https://proton.me/about)
-  * [Team](https://proton.me/about/team)
-  * [Impact](https://proton.me/about/impact)
-  * [Careers](https://proton.me/careers)We’re hiring
-
-  * [Shop(new window)](https://shop.proton.me/)
-
-
-
-Connect
-
-  * [Blog(new window)](https://proton.me/blog)
-  * [Help and support](https://proton.me/support)
-  * [Partners and affiliates](https://proton.me/partners)
-  * [Press and media](https://proton.me/media)
-  * [Contact us](https://proton.me/support/contact)
+  * Connect
+    * [Blog(new window)](https://proton.me/blog)
+    * [Help and support](https://proton.me/support)
+    * [Partners and affiliates](https://proton.me/partners)
+    * [Press and media](https://proton.me/media)
+    * [Contact us](https://proton.me/support/contact-product)
 
 
 
@@ -328,11 +323,13 @@ Connect
 
 Proton AG
 
-Route de la Galaise 321228 Plan-les-OuatesGeneva, Switzerland
+Route de la Galaise 32  
+1228Plan-les-Ouates  
+Geneva, Switzerland
 
 Built with support from
 
-![Swiss Confederation](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693295499/static/footer/swiss-confederation_pgkwwd.svg)
+![Swiss Confederation Flag](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693295499/static/footer/swiss-confederation_pgkwwd.svg)
 
 Schweizerische Eidgenossenschaft
 
@@ -346,10 +343,10 @@ Swiss Confederation
 
 Innosuisse - Swiss Innovation Agency
 
-![European flag](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693295499/static/footer/european-flag_gdzr4j.svg)
+![European Flag](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693295499/static/footer/european-flag_gdzr4j.svg)
 
 This project is supported  
-by the European Union's  
+by the European Union’s  
 Horizon 2020 program  
 (Grant No 848554)
 
@@ -362,10 +359,9 @@ English
   * [Request a feature(new window)](https://protonmail.uservoice.com/)
 
 
-
-  * [Privacy Policy](https://proton.me/legal/privacy)
+  * [Privacy policy](https://proton.me/legal/privacy)
   * [Terms & conditions](https://proton.me/legal/terms)
-  * [Transparency Report](https://proton.me/legal/transparency)
+  * [Transparency report](https://proton.me/legal/transparency)
   * © 2023 Proton AG. All rights reserved.
 
 
