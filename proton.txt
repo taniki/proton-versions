@@ -362,6 +362,6 @@ English
   * [Privacy policy](https://proton.me/legal/privacy)
   * [Terms & conditions](https://proton.me/legal/terms)
   * [Transparency report](https://proton.me/legal/transparency)
-  * © 2023 Proton AG. All rights reserved.
+  * © 2024 Proton AG. All rights reserved.
 
 
