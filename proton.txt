@@ -173,8 +173,6 @@ If you do not want your plan to renew, you need to downgrade your plan before th
 
 If you increase the billing cycle of your subscription (e.g. from 1 month to 1 year), the change is applied at the end of your current subscription cycle.
 
-If you decrease the billing cycle of your subscription, the change is applied immediately.
-
 ## 10\. Modification to the terms of service
 
 Within the limits of applicable law, the Company reserves the right to review and change these Terms at any time. As long as you are using your Account or the Services, you are responsible for regularly reviewing these Terms. Continued use of your Account or the Services, including non-deletion of your Account after such changes are performed shall constitute your consent to them. The latest Terms will apply going forward and to any dispute or issue arising after the Terms have been updated.
@@ -295,6 +293,7 @@ Proton - Privacy by default
   * ### Privacy and community
 
   * Privacy and community
+    * [Password generator](https://proton.me/pass/password-generator)
     * [Tor](https://proton.me/tor)
     * [Switch to Proton](https://proton.me/easyswitch)
     * [Community](https://proton.me/community)
