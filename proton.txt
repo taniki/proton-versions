@@ -44,7 +44,7 @@ Open menu
 
 # Terms of Service
 
-Last modified: August 22nd, 2023
+Last modified: March 8th, 2024
 
 By using the proton.me or protonvpn.com website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass (the “Services”), you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland. Use of your Account or the Services includes registering an Account, keeping an Account open (not deleted by you or not deleted or deactivated by Proton), or accessing our website or mobile/desktop applications, or making use of our services. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
 
@@ -84,9 +84,9 @@ The Company may also terminate Accounts which are being used for illegal activit
 
 We reserve the right to limit service capacity for free Accounts which use of resources (e.g. bandwidth) is excessive and hurts the user experiences of other users in an unfair way.
 
-The Company reserves the right to suspend or delete free Accounts that have been inactive for a consecutive period of twelve months. For more information, we invite you to read our [inactive account policy](https://proton.me/support/inactive-accounts).
+The Company reserves the right to suspend or delete free Accounts that have been inactive for a consecutive period of twelve months. For more information, we invite you to read our [inactive account policy(new window)](https://proton.me/support/inactive-accounts).
 
-If you would like to contest the suspension of your account, please submit an appeal through our [Abuse Appeal Form](https://proton.me/support/appeal-abuse).
+If you would like to contest the suspension of your account, please submit an appeal through our [Abuse Appeal Form(new window)](https://proton.me/support/appeal-abuse).
 
 ## 3\. Limited warranties and liability
 
@@ -131,9 +131,9 @@ You agree that the Company, and any parents, subsidiaries, officers, directors, 
 
 ## 6\. Privacy
 
-Our [Privacy Policy](https://proton.me/legal/privacy) and its sub-policies explain the way we handle and protect your personal data and privacy in relation to your Account, your use of the Services, and your browsing of the proton.me or protonvpn.com website. By agreeing to the present Terms and to be able to use the Services, you also agree to our Privacy Policy and its sub-policies.
+Our [Privacy Policy(new window)](https://proton.me/legal/privacy) and its sub-policies explain the way we handle and protect your personal data and privacy in relation to your Account, your use of the Services, and your browsing of the proton.me or protonvpn.com website. By agreeing to the present Terms and to be able to use the Services, you also agree to our Privacy Policy and its sub-policies.
 
-If, in the provision of the Services, the Company processes, on the user’s behalf (where the user acts as a Data Controller), any personal data that is subject to the EU General Data Protection Regulation (GDPR), the [company’s data processing agreement](https://proton.me/legal/dpa) shall apply.
+If, in the provision of the Services, the Company processes, on the user’s behalf (where the user acts as a Data Controller), any personal data that is subject to the EU General Data Protection Regulation (GDPR), the [company’s data processing agreement(new window)](https://proton.me/legal/dpa) shall apply.
 
 ## 7\. Intellectual property
 
@@ -151,6 +151,8 @@ If the Company chooses to issue a refund for any reason, The Company will only r
 
 If you fail to fulfill your obligation of payment as a user of a paid Account, we may suspend your Account or delete it after an extended period of default.
 
+Subscriptions and credits are linked to the account they have originally been purchased for and cannot be transferred to another account.
+
 If you rely on dispute or chargeback mechanisms of third-party payment processors, you waive your right to the above-mentioned refund from the Company and consent to rely upon the dispute resolution procedure of the third-party payment processor. Furthermore, if the result of the dispute or chargeback mechanisms causes the Company to be liable for additional costs (e.g. dispute fee), you authorize the Company to charge that amount on your account.
 
 ## 9\. Modification of plan or billing cycle
@@ -158,6 +160,10 @@ If you rely on dispute or chargeback mechanisms of third-party payment processor
 **Modification of plan**
 
 If you select a new paid plan, your subscription will be immediately updated, and you will receive a prorated credit for the unused portion of your previous plan that will be automatically applied to your account.
+
+The creation of additional addresses (aliases) is possible with paid plans. Once an alias is created, it cannot be deleted. Once you have reached the limit of aliases, you can create more by upgrading your plan or purchasing more aliases depending on your plan. This does not concern custom domains.
+
+The creation of additional addresses (aliases) is possible with paid plans. Once an alias is created, it cannot be deleted. Once you have reached the limit of aliases, you can create more by upgrading your plan or purchasing more aliases depending on your plan. This does not concern custom domains. 
 
 **Cancellation of plan**
 
