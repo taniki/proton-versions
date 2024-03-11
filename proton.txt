@@ -163,8 +163,6 @@ If you select a new paid plan, your subscription will be immediately updated, an
 
 The creation of additional addresses (aliases) is possible with paid plans. Once an alias is created, it cannot be deleted. Once you have reached the limit of aliases, you can create more by upgrading your plan or purchasing more aliases depending on your plan. This does not concern custom domains.
 
-The creation of additional addresses (aliases) is possible with paid plans. Once an alias is created, it cannot be deleted. Once you have reached the limit of aliases, you can create more by upgrading your plan or purchasing more aliases depending on your plan. This does not concern custom domains. 
-
 **Cancellation of plan**
 
 If you do not want your plan to renew, you need to downgrade your plan before the end of your subscription period.
