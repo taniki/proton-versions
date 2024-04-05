@@ -274,7 +274,7 @@ On this page
 
 Proton - Privacy by default
 
-  * [![Twitter](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/x-purple.svg)(new window)](https://twitter.com/ProtonPrivacy)
+  * [![Twitter](https://res.cloudinary.com/dbulfrlrz/image/upload/v1712065299/static/social/x-widestroke-purple_f4zjnu.svg)(new window)](https://twitter.com/ProtonPrivacy)
   * [![Reddit](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/reddit-purple_gznsmi.svg)(new window)](https://www.reddit.com/r/ProtonMail)
   * [![Instagram](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/instagram-purple_qrninv.svg)(new window)](https://www.instagram.com/protonprivacy/)
   * [![Facebook](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/facebook-purple_gcxvti.svg)(new window)](https://www.facebook.com/Proton)
