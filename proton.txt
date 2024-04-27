@@ -303,14 +303,14 @@ On this page
 
 Proton - Privacy by default
 
-  * [![Twitter](https://res.cloudinary.com/dbulfrlrz/image/upload/v1712065299/static/social/x-widestroke-purple_f4zjnu.svg)(new window)](https://twitter.com/ProtonPrivacy)
-  * [![Reddit](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/reddit-purple_gznsmi.svg)(new window)](https://www.reddit.com/r/ProtonMail)
+  * [![Twitter](https://res.cloudinary.com/dbulfrlrz/image/upload/v1712065299/static/social/x-widestroke-purple_f4zjnu.svg)(new window)](https://twitter.com/intent/user?screen_name=ProtonPrivacy)
+  * [![Reddit](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/reddit-purple_gznsmi.svg)(new window)](https://www.reddit.com/r/ProtonMail/)
   * [![Instagram](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/instagram-purple_qrninv.svg)(new window)](https://www.instagram.com/protonprivacy/)
   * [![Facebook](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/facebook-purple_gcxvti.svg)(new window)](https://www.facebook.com/Proton)
   * [![Linkedin](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/linkedin-purple_zrlizy.svg)(new window)](https://www.linkedin.com/company/protonprivacy/)
   * [![Mastodon](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/mastodon-purple_oepmfa.svg)(new window)](https://mastodon.social/@protonprivacy)
   * [![Rss](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/rss-purple.svg)(new window)](https://proton.me/blog/feed)
-  * [![Youtube](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/youtube-purple_nuezps.svg)(new window)](https://www.youtube.com/@ProtonAG)
+  * [![Youtube](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/youtube-purple_nuezps.svg)(new window)](https://www.youtube.com/@ProtonAG?sub_confirmation=1)
 
 
 
