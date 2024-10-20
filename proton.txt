@@ -160,9 +160,9 @@ If, in the provision of the Services, the Company processes, on the user’s beh
 
 ## 8\. Intellectual property
 
-All trademarks, service marks, logos, trade names, and other proprietary designations of PROTON (the “PROTON Trademarks”) displayed on this website are trademarks or registered trademarks of the Company, and numerous of the PROTON Trademarks are registered with the U.S. Patent and Trademark Office and with multiple trademark offices around the world. See, e.g., U.S. Reg. Nos. 4,751,245, 4,754,889; CH Reg. No. 662,183; EU Reg. No. 17,893,097. Nothing in these Terms and Conditions should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any of the Proton Trademarks without our prior written permission in each instance. All goodwill generated from the use of the Proton Trademarks will inure to the Company’s exclusive benefit.
+All trademarks, service marks, logos, trade names, and other proprietary designations of PROTON (the “PROTON Trademarks”) displayed on this website are trademarks or registered trademarks of the Company, and numerous of the PROTON Trademarks are registered with the U.S. Patent and Trademark Office and with multiple trademark offices around the world. See, e.g., U.S. Reg. Nos. 4,751,245, 4,754,889; CH Reg. No. 662,183; EU Reg. No. 17,893,097. Nothing in these Terms of Service should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any of the Proton Trademarks without our prior written permission in each instance. All goodwill generated from the use of the Proton Trademarks will inure to the Company’s exclusive benefit.
 
-## 9\. Terms of payment
+## 9\. Terms of Payment
 
 Subscriptions for the Services are charged on a monthly, yearly or bi-yearly billing cycle, depending on your selection. After the initial term, the subscription is renewed automatically for the same selected duration unless canceled or modified by you. Credit balances are automatically deducted accordingly. You are responsible for keeping payment information in relation with your Account up to date.
 
@@ -218,7 +218,7 @@ If you do not want your plan to renew, you need to downgrade your plan before th
 
 If you increase the billing cycle of your subscription (e.g. from 1 month to 1 year), the change is applied at the end of your current subscription cycle.
 
-## 11\. Modification to the terms of service
+## 11\. Modification to the Terms of Service
 
 Within the limits of applicable law, the Company reserves the right to review and change these Terms at any time. As long as you are using your Account or the Services, you are responsible for regularly reviewing these Terms. Continued use of your Account or the Services, including non-deletion of your Account after such changes are performed shall constitute your consent to them. The latest Terms will apply going forward and to any dispute or issue arising after the Terms have been updated.
 
@@ -236,7 +236,7 @@ If you are a consumer user residing in the United States of America, you consent
 
 ## 13.1. Binding arbitration agreement and class action waiver
 
-These Terms and Conditions contain a class action waiver as well as an arbitration provision, which requires you to arbitrate any claims (with certain exceptions) you may have on an individual basis. Arbitration on an individual basis means that you will not have, and that you waive, the right for a judge or jury to decide your claims, and that you may not proceed in a class, consolidated, or representative capacity in any forum, as described in more detail below. You have the right to opt out of arbitration and/or the class action waiver, as explained below. Please read this section and the class action waiver section carefully – it may significantly affect your legal rights, including your right to file a lawsuit in court and to have a jury hear your claims. It contains procedures for mandatory binding arbitration and a class action waiver.
+These Terms of Service contain a class action waiver as well as an arbitration provision, which requires you to arbitrate any claims (with certain exceptions) you may have on an individual basis. Arbitration on an individual basis means that you will not have, and that you waive, the right for a judge or jury to decide your claims, and that you may not proceed in a class, consolidated, or representative capacity in any forum, as described in more detail below. You have the right to opt out of arbitration and/or the class action waiver, as explained below. Please read this section and the class action waiver section carefully – it may significantly affect your legal rights, including your right to file a lawsuit in court and to have a jury hear your claims. It contains procedures for mandatory binding arbitration and a class action waiver.
 
 _**Informal dispute resolution**_. Either party asserting a dispute shall first try in good faith to resolve it by providing written notice as specified below to the other party describing the facts and circumstances (including any relevant documentation) and allowing the receiving party 30 days in which to respond. Both you and the Company agree that this dispute resolution procedure is a condition precedent which must be satisfied before initiating any arbitration against the other party.
 
@@ -302,9 +302,9 @@ On this page
   * 6\. Indemnification
   * 7\. Privacy
   * 8\. Intellectual property
-  * 9\. Terms of payment
+  * 9\. Terms of Payment
   * 10\. Modification of plan or billing cycle
-  * 11\. Modification to the terms of service
+  * 11\. Modification to the Terms of Service
   * 12\. Severability
   * 13\. Applicable law and language
   * 13.1. Binding arbitration agreement and class action waiver
@@ -312,20 +312,31 @@ On this page
 
 
 
-![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233221/static/logos/proton-logo-p_kftwpv.svg)
+![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-purple_lf83vr.svg)
 
-Proton - Privacy by default
+Privacy by default
 
-  * [![Twitter](https://res.cloudinary.com/dbulfrlrz/image/upload/v1712065299/static/social/x-widestroke-purple_f4zjnu.svg)(new window)](https://twitter.com/intent/user?screen_name=ProtonPrivacy)
-  * [![Reddit](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/reddit-purple_gznsmi.svg)(new window)](https://www.reddit.com/r/ProtonMail/)
-  * [![Instagram](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/instagram-purple_qrninv.svg)(new window)](https://www.instagram.com/protonprivacy/)
-  * [![Facebook](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/facebook-purple_gcxvti.svg)(new window)](https://www.facebook.com/Proton)
-  * [![Linkedin](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/linkedin-purple_zrlizy.svg)(new window)](https://www.linkedin.com/company/protonprivacy/)
-  * [![Mastodon](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/mastodon-purple_oepmfa.svg)(new window)](https://mastodon.social/@protonprivacy)
-  * [![Rss](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/rss-purple.svg)](https://proton.me/blog/feed)
-  * [![Youtube](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693214270/static/social/youtube-purple_nuezps.svg)(new window)](https://www.youtube.com/@ProtonAG?sub_confirmation=1)
+  * [![X](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/x.svg)(new window)](https://x.com/intent/user?screen_name=ProtonPrivacy)
+  * [![Reddit](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/reddit.svg)(new window)](https://www.reddit.com/r/ProtonMail/)
+  * [![Instagram](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/instagram.svg)(new window)](https://www.instagram.com/protonprivacy/)
+  * [![Facebook](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/facebook.svg)(new window)](https://www.facebook.com/Proton)
+  * [![LinkedIn](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/linkedin.svg)(new window)](https://www.linkedin.com/company/protonprivacy/)
+  * [![Mastodon](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/mastodon.svg)(new window)](https://mastodon.social/@protonprivacy)
+  * [![RSS](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/rss.svg)](https://proton.me/blog/feed)
+  * [![Threads](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/threads.svg)(new window)](https://www.threads.net/@protonprivacy)
+  * [![WhatsApp](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/whatsapp.svg)(new window)](https://www.whatsapp.com/channel/0029VaErt8I4tRrjiU8eMd1U)
+  * [![Telegram](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/telegram.svg)(new window)](https://t.me/proton_privacy)
+  * [![UserVoice](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/uservoice.svg)(new window)](https://protonmail.uservoice.com/)
+  * [![YouTube](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/youtube.svg)(new window)](https://www.youtube.com/@ProtonAG?sub_confirmation=1)
+  * [![TikTok](https://res.cloudinary.com/dbulfrlrz/image/upload/v1727943149/static/social/square/tiktok.svg)(new window)](https://www.tiktok.com/@privacytok)
 
 
+
+Proton AG
+
+Route de la Galaise 32  
+1228 Plan-les-Ouates  
+Geneva, Switzerland
 
   * ### Products
 
@@ -346,6 +357,7 @@ Proton - Privacy by default
     * [Community](https://proton.me/community)
     * [Open source](https://proton.me/community/open-source)
     * [Pricing](https://proton.me/pricing)
+    * [Student discount](https://proton.me/student)
   * ### Company
 
   * Company
@@ -368,35 +380,6 @@ Proton - Privacy by default
 
 * * *
 
-Proton AG
-
-Route de la Galaise 32  
-1228 Plan-les-Ouates  
-Geneva, Switzerland
-
-Built with support from
-
-![Swiss Confederation Flag](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693295499/static/footer/swiss-confederation_pgkwwd.svg)
-
-Schweizerische Eidgenossenschaft
-
-Confédération Suisse
-
-Confederazione Svizzera
-
-Confederaziun Svizra
-
-Swiss Confederation
-
-Innosuisse - Swiss Innovation Agency
-
-![European Flag](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693295499/static/footer/Flag_of_Europe_arpkfs.svg)
-
-This project is supported  
-by the European Union’s  
-Horizon 2020 program  
-(Grant No 848554)
-
 English
 
   * [System status(new window)](https://status.proton.me/)
@@ -405,6 +388,9 @@ English
   * [Report a security issue](https://proton.me/security/response-center)
   * [Request a feature(new window)](https://protonmail.uservoice.com/)
 
+
+
+English
 
   * [Privacy policy](https://proton.me/legal/privacy)
   * [Terms & conditions](https://proton.me/legal/terms)
