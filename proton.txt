@@ -347,7 +347,7 @@ Geneva, Switzerland
     * [Proton Mail](https://proton.me/mail)
     * [Proton Calendar](https://proton.me/calendar)
     * [Proton Drive](https://proton.me/drive)
-    * [Proton VPN(new window)](https://protonvpn.com/)
+    * [Proton VPN(new window)](https://protonvpn.com/?ref=pme_lp_b2c_proton_footer)
     * [Proton Pass](https://proton.me/pass)
     * [Proton Wallet](https://proton.me/wallet)
     * [Proton for Business](https://proton.me/business)
