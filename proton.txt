@@ -44,7 +44,7 @@ Open menu
 
 # Terms of Service
 
-Last modified: September 25, 2024
+Last modified: December 23, 2024
 
 By using the proton.me or [protonvpn.com(new window)](https://protonvpn.com/) website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass and Proton Docs (the “Services”) and other services like Proton Wallet operated by Proton Financial AG, you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland, which is under the supervision of the non-profit Proton Foundation (Switzerland). Use of your Account or the Services includes registering an Account, keeping an Account open (not deleted by you or not deleted or deactivated by Proton), or accessing our website or mobile/desktop applications, or making use of our services. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
 
@@ -74,13 +74,14 @@ You agree not to use your Account or the Services for any illegal or prohibited 
   8. Paying for your subscription with fraudulent payment means, such as a stolen credit card;
   9. Engaging in spam activities, which are defined as the practice of sending irrelevant or unsolicited messages or content over the internet, typically to a large number of recipients, notably for the purposes of advertising, phishing, or spreading malware or viruses;
   10. Sending junk mail, bulk emails, or mailing list emails that contain persons that have not specifically agreed to be included on that list. You agree not to use the Services to store or share content that violates the law or the rights of a third party;
-  11. Abusive registrations of email aliases for third-party services;
-  12. Attempting to access, probe, or connect to computing devices without proper authorization (i.e. any form of unauthorized "hacking");
-  13. Referring yourself or another one of your accounts to unduly benefit from our referral program's benefits (see section 9 for discretionary benefits of the program).
+  11. Abusive registrations of email addresses (including aliases) for third-party services;
+  12. Using a free account email address (including aliases) for the unique purpose of registering to third-party services;
+  13. Attempting to access, probe, or connect to computing devices without proper authorization (i.e. any form of unauthorized "hacking");
+  14. Referring yourself or another one of your accounts to unduly benefit from our referral program's benefits (see section 9 for discretionary benefits of the program).
 
 
 
-Any Account found to be committing the listed unauthorized activities will be immediately suspended.
+Any Account found to be committing any of the the listed unauthorized activities will be immediately suspended or restricted accordingly (which can include features and capabilities restrictions).
 
 The Company may also terminate Accounts which are being used for illegal activities that are not listed above, particularly in response to orders from the competent authorities informing of such illegal activity.
 
@@ -200,9 +201,9 @@ Participating in Proton's referral program (by inviting a third party to create 
 
 If you select a new paid plan, your subscription will be immediately updated, and you will receive a prorated credit for the unused portion of your previous plan that will be automatically applied to your account.
 
-The creation of additional addresses (aliases) is possible with paid plans. Once you have reached the limit of aliases, you can create more by upgrading your plan or purchasing more aliases depending on your plan. This does not concern custom domains.
+The creation of additional addresses (aliases) is possible with paid plans. Once you have reached the limit of aliases, you can create more by upgrading your plan or purchasing more aliases depending on your plan. 
 
-You can delete up to one alias per year. Otherwise, aliases generally cannot be deleted.
+You can delete up to one alias per year. Otherwise, aliases generally cannot be deleted. This limit does not apply to custom domains.
 
 **Cancellation of plan**
 
