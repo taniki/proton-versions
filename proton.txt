@@ -108,7 +108,7 @@ If your account is free, you are considered active by performing one of the foll
 
 Activity is considered by Account, not by email address. Keeping an active Account ensures that any email addresses you created for that Account (@proton.me, @pm.me, etc.) also remain active.
 
-If you are subject to unsurmountable circumstances that won't allow you to stay active on your Account in a period of 12 months, please [contact our Customer Support](https://proton.me/support/contact) so that they can prevent deletion under this section.
+If you are subject to insurmountable circumstances that won't allow you to stay active on your Account in a period of 12 months, please [contact our Customer Support](https://proton.me/support/contact) so that they can prevent deletion under this section.
 
 ## 4\. Limited warranties and liability
 
@@ -165,7 +165,11 @@ All trademarks, service marks, logos, trade names, and other proprietary designa
 
 ## 9\. Terms of Payment
 
-Subscriptions for the Services are charged on a monthly, yearly or bi-yearly billing cycle, depending on your selection. After the initial term, the subscription is renewed automatically for the same selected duration unless canceled or modified by you. Credit balances are automatically deducted accordingly. You are responsible for keeping payment information in relation with your Account up to date.
+Subscriptions for the Services are charged on a monthly, yearly or bi-yearly billing cycle, depending on your selection. After the initial term, the subscription is renewed automatically for the duration as specified during your initial purchase and you will be charged accordingly, unless canceled or modified by you. Credit balances are automatically deducted accordingly. You are responsible for keeping payment information in relation with your Account up to date.
+
+The prices displayed on our Websites and Apps at the time of your initial purchase are subject to change. If the renewal price has changed, you will be charged then-current price valid at the time of the renewal of your Subscription.
+
+We will send you a notification email reminding you about the upcoming renewal of your subscription and the then-current renewal price of our Services thirty (30) days before the subscription renewal date (except for users of monthly and shorter subscriptions). If you do not wish to continue using our paid Services, you must cancel your subscription before its renewal date by visiting your Account Dashboard and following the Cancel Subscription steps.
 
 You may cancel your subscription within 30 days of the initial purchase and receive a refund for any unused portion of the service period. Here, any unused portion of the service period refers to the prorated remaining full days of the subscription period. Refunds will be processed within 30 days of the request. We may also provide you with a full refund upon request if you are using Proton VPN or Proton Drive. To request a refund, please contact us using our support form. For the sake of clarity, the cancellation and the request for refund must both be addressed within the 30-day period. Payments made by cash or bank transfers are not refundable. **Refunds can only be requested once per user**. This refund option is only applicable to users who have subscribed to Proton's Services directly through Proton's official channels (website and apps). If you have subscribed to Proton's Services through the intermediary of a third-party, please refer to their respective refund policy.
 
@@ -173,7 +177,7 @@ Past the abovementioned 30-day period, the Services provided by the Company are 
 
 If the Company chooses to issue a refund for any reason, The Company will only refund in the original currency of payment and to the original payment method. If you request a credit balance to be converted between different currencies which the Company supports, the Company has discretion over the exchange rate applied.
 
-If you fail to fulfil your obligation of payment as a user of a paid Account, your account may, at our discretion, be automatically downgraded to a Free account after the failure to proceed to payment. However, if your account is exceeding limits of free accounts, we may either:
+If you fail to fulfill your obligation of payment as a user of a paid Account, your account may, at our discretion, be automatically downgraded to a Free account after the failure to proceed to payment. However, if your account is exceeding limits of free accounts, we may either:
 
   * Renew your subscription, in which case the subscription fee are due;
   * Downgrade your account to Free plan with limited access.
@@ -257,7 +261,7 @@ Any litigation in court of the foregoing types of disputes (except for small cla
 
 _**How arbitration works.**_ Either party may initiate arbitration of a dispute, which will be settled by final and binding arbitration, using the English language, administered by AAA under the AAA Rules then in effect (those rules are deemed to be incorporated by reference into this section, and as of the date of these Terms), and the parties expressly waive any and all rights to appeal any order or judgment of the arbitrator or seek confirmation of an order or judgment of the arbitrator to the extent permitted by applicable law.
 
-Unless you and the Company agree otherwise, including to conduct the arbitration by telephone or videoconference, any arbitration hearing shall take place in the county (or parish) and State where you reside, unless the arbitrator determines that a different location would better serve the convenience of the parties. Payment of all filing, administration, and arbitrator costs and expenses will be governed by the AAA Rules, except that if you demonstrate that any such costs and expenses owed by you under those rules would be prohibitively more expensive than a court proceeding, the Company will pay the amount of any such costs and expenses that the arbitrator determines are necessary to prevent the arbitration from being prohibitively more expensive than a court proceeding (subject to possible reimbursement as set forth below).
+Unless you and the Company agree otherwise, including to conduct the arbitration by telephone or video-conference, any arbitration hearing shall take place in the county (or parish) and State where you reside, unless the arbitrator determines that a different location would better serve the convenience of the parties. Payment of all filing, administration, and arbitrator costs and expenses will be governed by the AAA Rules, except that if you demonstrate that any such costs and expenses owed by you under those rules would be prohibitively more expensive than a court proceeding, the Company will pay the amount of any such costs and expenses that the arbitrator determines are necessary to prevent the arbitration from being prohibitively more expensive than a court proceeding (subject to possible reimbursement as set forth below).
 
 Each party is responsible for his, her, their or its own attorneys’ fees and expenses, and the Company will not pay your attorneys’ fees or expenses except to the extent ordered to do so by the arbitrator. If you prevail in arbitration, however, you will be entitled to an award of reasonable attorneys’ fees and expenses to the extent allowed for under applicable law and ordered by the arbitrator. In the event the arbitrator determines the claim you asserted in the arbitration to be frivolous according to Federal Rule of Civil Procedure 11, or brought for an improper purpose, you agree to reimburse the Company for all fees associated with the arbitration paid by the Company that you otherwise would have been obligated to pay under the AAA Rules.
 
