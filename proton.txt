@@ -355,16 +355,17 @@ Geneva, Switzerland
     * [Proton Pass](https://proton.me/pass)
     * [Proton Wallet](https://proton.me/wallet)
     * [Proton for Business](https://proton.me/business)
+    * [Switch to Proton](https://proton.me/easyswitch)
   * ### Privacy and community
 
   * Privacy and community
     * [Password generator](https://proton.me/pass/password-generator)
     * [Tor](https://proton.me/tor)
-    * [Switch to Proton](https://proton.me/easyswitch)
     * [Community](https://proton.me/community)
     * [Open source](https://proton.me/community/open-source)
     * [Pricing](https://proton.me/pricing)
     * [Student discount](https://proton.me/student)
+    * [Big Tech fines tracker](https://proton.me/tech-fines-tracker)
   * ### Company
 
   * Company
