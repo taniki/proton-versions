@@ -347,6 +347,15 @@ Geneva, Switzerland
 
   * ### Products
 
+    * [Proton Mail](https://proton.me/mail)
+    * [Proton Calendar](https://proton.me/calendar)
+    * [Proton Drive](https://proton.me/drive)
+    * [Proton VPN(new window)](https://protonvpn.com/?ref=pme_lp_b2c_proton_footer)
+    * [Proton Pass](https://proton.me/pass)
+    * [Proton Wallet](https://proton.me/wallet)
+    * [Proton for Business](https://proton.me/business)
+    * [Switch to Proton](https://proton.me/easyswitch)
+
   * Products
     * [Proton Mail](https://proton.me/mail)
     * [Proton Calendar](https://proton.me/calendar)
@@ -358,6 +367,14 @@ Geneva, Switzerland
     * [Switch to Proton](https://proton.me/easyswitch)
   * ### Privacy and community
 
+    * [Password generator](https://proton.me/pass/password-generator)
+    * [Tor](https://proton.me/tor)
+    * [Community](https://proton.me/community)
+    * [Open source](https://proton.me/community/open-source)
+    * [Pricing](https://proton.me/pricing)
+    * [Student discount](https://proton.me/student)
+    * [Big Tech fines tracker](https://proton.me/tech-fines-tracker)
+
   * Privacy and community
     * [Password generator](https://proton.me/pass/password-generator)
     * [Tor](https://proton.me/tor)
@@ -368,6 +385,13 @@ Geneva, Switzerland
     * [Big Tech fines tracker](https://proton.me/tech-fines-tracker)
   * ### Company
 
+    * [About us](https://proton.me/about)
+    * [Team](https://proton.me/about/team)
+    * [Impact](https://proton.me/about/impact)
+    * [Proton Foundation](https://proton.me/foundation)
+    * [Careers We’re hiring](https://proton.me/careers)
+    * [Shop(new window)](https://shop.proton.me/)
+
   * Company
     * [About us](https://proton.me/about)
     * [Team](https://proton.me/about/team)
@@ -376,6 +400,12 @@ Geneva, Switzerland
     * [Careers We’re hiring](https://proton.me/careers)
     * [Shop(new window)](https://shop.proton.me/)
   * ### Connect
+
+    * [Blog](https://proton.me/blog)
+    * [Help and support](https://proton.me/support)
+    * [Partners and affiliates](https://proton.me/partners)
+    * [Press and media](https://proton.me/media)
+    * [Contact us](https://proton.me/support/contact-product)
 
   * Connect
     * [Blog](https://proton.me/blog)
