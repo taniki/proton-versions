@@ -327,7 +327,6 @@ Privacy by default
   * [![Instagram](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Finstagram.svg)(new window)](https://www.instagram.com/protonprivacy/)
   * [![Facebook](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Ffacebook.svg)(new window)](https://www.facebook.com/Proton)
   * [![LinkedIn](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Flinkedin.svg)(new window)](https://www.linkedin.com/company/protonprivacy/)
-  * [![Mastodon](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Fmastodon.svg)(new window)](https://mastodon.social/@protonprivacy)
   * [![RSS](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Frss.svg)](https://proton.me/blog/feed)
   * [![Threads](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Fthreads.svg)(new window)](https://www.threads.net/@protonprivacy)
   * [![WhatsApp](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Fwhatsapp.svg)(new window)](https://www.whatsapp.com/channel/0029VaErt8I4tRrjiU8eMd1U)
