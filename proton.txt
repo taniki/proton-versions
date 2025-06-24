@@ -405,6 +405,7 @@ Geneva, Switzerland
     * [Partners and affiliates ](https://proton.me/partners)
     * [Press and media ](https://proton.me/media)
     * [Contact us ](https://proton.me/support/contact-product)
+    * [Donate ](https://proton.me/foundation#donate)
 
   * Connect
     * [Blog ](https://proton.me/blog)
@@ -412,6 +413,7 @@ Geneva, Switzerland
     * [Partners and affiliates ](https://proton.me/partners)
     * [Press and media ](https://proton.me/media)
     * [Contact us ](https://proton.me/support/contact-product)
+    * [Donate ](https://proton.me/foundation#donate)
 
 
 
