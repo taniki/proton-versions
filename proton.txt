@@ -11,7 +11,7 @@
   * [Proton for Business](https://proton.me/business)
   * Who we are
 
-[ProtonA better internet starts with privacy and freedom.](https://proton.me/)[About usProton stands for privacy. Always has, always will.](https://proton.me/about)[TeamMeet the people building a better internet.](https://proton.me/about/team)[ImpactDefending freedom through tech is why we exist.](https://proton.me/about/impact)[CareersWe're hiringSeeking talented people to take Proton to the next level.](https://proton.me/careers)
+[About usProton stands for privacy. Always has, always will.](https://proton.me/about)[TeamMeet the people building a better internet.](https://proton.me/about/team)[ImpactDefending freedom through tech is why we exist.](https://proton.me/about/impact)[CareersWe're hiringSeeking talented people to take Proton to the next level.](https://proton.me/careers)
 
 * * *
 
@@ -44,7 +44,7 @@ Open menu
 
 # Terms of Service
 
- _Last modified: June 16th, 2025_
+ _Last modified: July 02, 2025_
 
 By using the [proton.me](https://proton.me/) or [protonvpn.com(new window)](https://protonvpn.com/) website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass and Proton Docs (the “Services”) and other services like Proton Wallet operated by Proton Financial AG, you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland, which is under the supervision of the non-profit Proton Foundation (Switzerland). Use of your Account or the Services includes registering an Account, keeping an Account open (not deleted by you or not deleted or deactivated by Proton), or accessing our website or mobile/desktop applications, or making use of our services. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
 
@@ -63,6 +63,9 @@ Each user is solely responsible for all actions performed through the Services.
 ## 2\. Authorized use of the Services
 
 You agree not to use your Account or the Services for any illegal or prohibited activities. Unauthorized activities include, but are not limited to:
+
+  
+
 
   1. Disrupting the Company's networks and Servers in your use of the Services;
   2. Accessing/sharing/downloading/uploading illegal content, including but not limited to Child Sexual Abuse Material (CSAM) or content related to CSAM;
@@ -165,15 +168,17 @@ All trademarks, service marks, logos, trade names, and other proprietary designa
 
 ## 9\. Terms of Payment
 
-Subscriptions for the Services are charged on a monthly, yearly or bi-yearly billing cycle, depending on your selection. After the initial term, the subscription is renewed automatically for the duration as specified during your initial purchase and you will be charged accordingly, unless canceled or modified by you. Credit balances are automatically deducted accordingly. You are responsible for keeping payment information in relation with your Account up to date.
+Subscriptions for the Services are charged on a monthly, yearly or bi-yearly billing cycle, depending on your selection. After the initial term, the subscription is renewed automatically for the duration as specified during your initial purchase and you will be charged accordingly, unless cancelled or modified by you. Credit balances are automatically deducted accordingly. You are responsible for keeping payment information in relation with your Account up to date.
 
-The prices displayed on our Websites and Apps at the time of your initial purchase are subject to change. If the renewal price has changed, you will be charged then-current price valid at the time of the renewal of your Subscription. Email notifications impacting changes to renewal pricing will be sent thirty (30) days before the next subscription renewal date (except for users of monthly and shorter subscriptions). If you do not wish to continue using our paid Services, you must cancel your subscription before its renewal date by visiting your Account Dashboard and following the Cancel Subscription steps.
+The prices displayed on our Websites and Apps at the time of your initial purchase are subject to change. If the renewal price has changed, you will be charged the then-current price valid at the time of the renewal of your subscription. Email notifications impacting changes to renewal pricing will be sent thirty (30) days before the next subscription renewal date (except for users of monthly and shorter subscriptions). If you do not wish to continue using our paid Services, you must cancel your subscription before its renewal date by visiting your Account dashboard and following the cancel subscription steps. If you are unable to access your Account dashboard, you may cancel your subscription by [contacting our Customer Support](https://proton.me/support/contact).
 
 You may cancel your subscription within 30 days of the initial purchase and receive a refund for any unused portion of the service period. Here, any unused portion of the service period refers to the prorated remaining full days of the subscription period. Refunds will be processed within 30 days of the request. We may also provide you with a full refund upon request if you are using Proton VPN or Proton Drive. To request a refund, please contact us using our support form. For the sake of clarity, the cancellation and the request for refund must both be addressed within the 30-day period. Payments made by cash or bank transfers are not refundable. **Refunds can only be requested once per user**. This refund option is only applicable to users who have subscribed to Proton's Services directly through Proton's official channels (website and apps). If you have subscribed to Proton's Services through the intermediary of a third-party, please refer to their respective refund policy.
 
 Past the abovementioned 30-day period, the Services provided by the Company are non-refundable and any refund or credit given will be at the sole discretion of the Company. Paid Accounts which are terminated due to a violation of these Terms will incur the loss of all payments and credits and are not eligible for refund.
 
 If the Company chooses to issue a refund for any reason, The Company will only refund in the original currency of payment and to the original payment method. If you request a credit balance to be converted between different currencies which the Company supports, the Company has discretion over the exchange rate applied.
+
+If you are a business user, you might be eligible to a free trial period upon subscription to a Proton Business plan. In such case, the duration of the free trial shall be specified at sign-up. At the expiration of the trial period, you will be enrolled into a full-fledged paid subscription (that itself also automatically renews) and will be charged according to your Proton Business plan, unless you cancel your subscription before the end of the trial period by visiting your Account dashboard and following the cancel subscription steps. If you are unable to access your Account dashboard, you may cancel your subscription by [contacting our Customer Support](https://proton.me/support/contact). Proton may modify the eligible plans and/or the duration of the free trial at any time, including stop offering free trials. Each business user may benefit only once of the cancellation during a free trial period. 
 
 If you fail to fulfill your obligation of payment as a user of a paid Account, your account may, at our discretion, be automatically downgraded to a Free account after the failure to proceed to payment. If your Account exceeds the limits of our free subscription tier (for example, including but not limited to by exceeding storage capacity or having sub-users) after the downgrade, your Account will be put in a delinquent restricted state which will limit the use of features of the Account.
 
