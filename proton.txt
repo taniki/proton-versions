@@ -438,6 +438,21 @@ English
 
 English
 
+  * [Čeština](https://proton.me/cs/legal/terms)
+  * [Deutsch](https://proton.me/de/legal/terms)
+  * [English](https://proton.me/legal/terms/)
+  * [Español (España)](https://proton.me/es-es/legal/terms)
+  * [Español (Latinoamérica)](https://proton.me/es-419/legal/terms)
+  * [Français](https://proton.me/fr/legal/terms)
+  * [Italiano](https://proton.me/it/legal/terms)
+  * [Nederlands](https://proton.me/nl/legal/terms)
+  * [Polski](https://proton.me/pl/legal/terms)
+  * [Português (Brasil)](https://proton.me/pt-br/legal/terms)
+  * [Türkçe](https://proton.me/tr/legal/terms)
+  * [Русский](https://proton.me/ru/legal/terms)
+
+
+
   * [Privacy Policy](https://proton.me/legal/privacy)
   * [Terms & conditions](https://proton.me/legal/terms)
   * [Transparency report](https://proton.me/legal/transparency)
