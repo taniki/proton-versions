@@ -1,17 +1,27 @@
-[![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fproton-purple_lf83vr.svg)](https://proton.me/)
+[![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fstatic%2Flogos%2Ftexts%2Fproton-purple_lf83vr.svg)](https://proton.me/)
 
   * Products
 
-[![Proton Mail](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ficons%2Fmail_xxy4bg.svg)![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fproton-black_zvq72v.svg)![Mail](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fmail-purple_resbmb.svg)Encrypted email that's private by default.](https://proton.me/mail)[![Proton Calendar](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ficons%2Fcalendar_ylg2jq.svg)![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fproton-black_zvq72v.svg)![Calendar](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fcalendar-purple_axpwhi.svg)Your calendar is a record of your life. Keep it safe.](https://proton.me/calendar)[![Proton Drive](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ficons%2Fdrive_wo2nx4.svg)![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fproton-black_zvq72v.svg)![Drive](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fdrive-purple_gvgywi.svg)Secure cloud storage that gives you control of your data.](https://proton.me/drive)[![Proton VPN](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ficons%2Fvpn_f9embt.svg)![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fproton-black_zvq72v.svg)![VPN](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fvpn-purple_afexu9.svg)Your gateway to online freedom.(new window)](https://protonvpn.com/?ref=pme_lp_b2c_proton_submenu)[![Proton Pass](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ficons%2Fpass_wl1fk9.svg)![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fproton-black_zvq72v.svg)![Pass](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fpass-purple_h2rbko.svg)An encrypted password manager that protects your online identity.](https://proton.me/pass)[![Proton Wallet](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ficons%2Fwallet_hnlslt.svg)![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fproton-black_zvq72v.svg)![Wallet](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fwallet-purple_gxmyyv.svg)Store and transact Bitcoin privately with an encrypted self-custody wallet.](https://proton.me/wallet)
+Proton ecosystem
+
+[![Proton Mail](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fstatic%2Flogos%2Ficons%2Fmail_xxy4bg.svg)Proton MailSecure your communications with encrypted email.](https://proton.me/mail)[![Proton VPN](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fstatic%2Flogos%2Ficons%2Fvpn_f9embt.svg)Proton VPNKeep your online activity secure and private.(new window)](https://protonvpn.com/?ref=pme_lp_b2c_proton_submenu)[![Proton Drive](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fstatic%2Flogos%2Ficons%2Fdrive_wo2nx4.svg)Proton DriveOrganize your photos and files with secure cloud storage.](https://proton.me/drive)[![Proton Calendar](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fstatic%2Flogos%2Ficons%2Fcalendar_ylg2jq.svg)Proton CalendarOrganize your schedule privately.](https://proton.me/calendar)[![Proton Pass](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fstatic%2Flogos%2Ficons%2Fpass_wl1fk9.svg)Proton PassProtect your online identity with an encrypted password manager.](https://proton.me/pass)[![Proton Wallet](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fstatic%2Flogos%2Ficons%2Fwallet_hnlslt.svg)Proton WalletTransact Bitcoin privately with an encrypted self-custody wallet.](https://proton.me/wallet)
 
 * * *
 
-[![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fproton-black_zvq72v.svg)![For Business](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fbusiness-black_xc1ryk.svg)Improve the security of your business and comply with data protection laws.](https://proton.me/business)
+More from Proton
+
+[![Lumo](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fstatic%2Flogos%2Ficons%2Flumo_k0nljk.svg)LumoNewThe AI where every conversation is confidential.(new window)](https://lumo.proton.me/?ref=pme_lp_b2c_proton_submenu)[![](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1741968746%2Fstatic%2Flogos%2Fside-products%2Fsimple-login_cozggp.svg)Simple LoginShield your inbox from spam and phishing with an email alias service.(new window)](https://simplelogin.io/)[![](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1741972455%2Fstatic%2Flogos%2Fside-products%2Fstandard-notes_h81doh.svg)Standard NotesA secure digital notes app that protects your notes.(new window)](https://standardnotes.com/)
+
+* * *
+
+[![](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fstatic%2Flogos%2Ficons%2Fp-white-no-shadow_iwycfj.svg)Proton for BusinessProtect your business with end-to-end encryption and compliance-ready security.](https://proton.me/business)
+
+![](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1742923981%2Fstatic%2Fnavigation%2Fnav-b2b-illustration_nzn3qv.jpg)
 
   * [Proton for Business](https://proton.me/business)
   * Who we are
 
-[About usProton stands for privacy. Always has, always will.](https://proton.me/about)[TeamMeet the people building a better internet.](https://proton.me/about/team)[ImpactDefending freedom through tech is why we exist.](https://proton.me/about/impact)[CareersWe're hiringSeeking talented people to take Proton to the next level.](https://proton.me/careers)
+[About usProton stands for privacy. Always has, always will.](https://proton.me/about)[TeamMeet the people building a better internet.](https://proton.me/about/team)[ImpactDefending freedom through tech is why we exist.](https://proton.me/about/impact)[CareersWe’re hiringSeeking talented people to take Proton to the next level.](https://proton.me/careers)
 
 * * *
 
@@ -325,9 +335,94 @@ On this page
 
 
 
-![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1703162849%2Fstatic%2Flogos%2Ftexts%2Fproton-purple_lf83vr.svg)
+![Proton](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fstatic%2Flogos%2Ftexts%2Fproton-purple_lf83vr.svg)
 
 Privacy by default
+
+Proton AG
+
+Route de la Galaise 32  
+1228 Plan-les-Ouates  
+Geneva, Switzerland
+
+  * Products
+    * [Proton Mail ](https://proton.me/mail)
+    * [Proton Calendar ](https://proton.me/calendar)
+    * [Proton Drive ](https://proton.me/drive)
+    * [Proton VPN (new window)](https://protonvpn.com/?ref=pme_lp_b2c_proton_footer)
+    * [Proton Pass ](https://proton.me/pass)
+    * [Proton Wallet ](https://proton.me/wallet)
+    * [Lumo New(new window)](https://lumo.proton.me/)
+    * [Standard Notes (new window)](https://standardnotes.com/)
+    * [Simple Login (new window)](https://simplelogin.io/)
+    * [Proton for Business ](https://proton.me/business)
+    * [Pricing ](https://proton.me/pricing)
+    * [Switch to Proton ](https://proton.me/easyswitch)
+  * ### Products
+
+    * [Proton Mail ](https://proton.me/mail)
+    * [Proton Calendar ](https://proton.me/calendar)
+    * [Proton Drive ](https://proton.me/drive)
+    * [Proton VPN (new window)](https://protonvpn.com/?ref=pme_lp_b2c_proton_footer)
+    * [Proton Pass ](https://proton.me/pass)
+    * [Proton Wallet ](https://proton.me/wallet)
+    * [Lumo New(new window)](https://lumo.proton.me/)
+    * [Standard Notes (new window)](https://standardnotes.com/)
+    * [Simple Login (new window)](https://simplelogin.io/)
+    * [Proton for Business ](https://proton.me/business)
+    * [Pricing ](https://proton.me/pricing)
+    * [Switch to Proton ](https://proton.me/easyswitch)
+
+  * Privacy
+    * [Password generator ](https://proton.me/pass/password-generator)
+    * [Tor ](https://proton.me/tor)
+    * [Community ](https://proton.me/community)
+    * [Open source ](https://proton.me/community/open-source)
+    * [Student discount ](https://proton.me/student)
+    * [Big Tech fines tracker ](https://proton.me/tech-fines-tracker)
+  * ### Privacy
+
+    * [Password generator ](https://proton.me/pass/password-generator)
+    * [Tor ](https://proton.me/tor)
+    * [Community ](https://proton.me/community)
+    * [Open source ](https://proton.me/community/open-source)
+    * [Student discount ](https://proton.me/student)
+    * [Big Tech fines tracker ](https://proton.me/tech-fines-tracker)
+
+  * Company
+    * [About us ](https://proton.me/about)
+    * [Team ](https://proton.me/about/team)
+    * [Impact ](https://proton.me/about/impact)
+    * [Proton Foundation ](https://proton.me/foundation)
+    * [Careers We’re hiring](https://proton.me/careers)
+    * [Shop (new window)](https://shop.proton.me/)
+  * ### Company
+
+    * [About us ](https://proton.me/about)
+    * [Team ](https://proton.me/about/team)
+    * [Impact ](https://proton.me/about/impact)
+    * [Proton Foundation ](https://proton.me/foundation)
+    * [Careers We’re hiring](https://proton.me/careers)
+    * [Shop (new window)](https://shop.proton.me/)
+
+  * Connect
+    * [Blog ](https://proton.me/blog)
+    * [Help and support ](https://proton.me/support)
+    * [Partners and affiliates ](https://proton.me/partners)
+    * [Press and media ](https://proton.me/media)
+    * [Contact us ](https://proton.me/support/contact-product)
+    * [Donate ](https://proton.me/foundation#donate)
+  * ### Connect
+
+    * [Blog ](https://proton.me/blog)
+    * [Help and support ](https://proton.me/support)
+    * [Partners and affiliates ](https://proton.me/partners)
+    * [Press and media ](https://proton.me/media)
+    * [Contact us ](https://proton.me/support/contact-product)
+    * [Donate ](https://proton.me/foundation#donate)
+
+
+
 
   * [![X](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Fx.svg)(new window)](https://x.com/intent/user?screen_name=ProtonPrivacy)
   * [![Reddit](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Freddit.svg)(new window)](https://www.reddit.com/r/ProtonMail/)
@@ -342,85 +437,6 @@ Privacy by default
   * [![YouTube](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Fyoutube.svg)(new window)](https://www.youtube.com/@ProtonAG?sub_confirmation=1)
   * [![TikTok](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Ftiktok.svg)(new window)](https://www.tiktok.com/@privacytok)
   * [![Bluesky](https://pmecdn.protonweb.com/image-transformation/?s=c&image=image%2Fupload%2Fv1727943149%2Fstatic%2Fsocial%2Fsquare%2Fbluesky.svg)(new window)](https://bsky.app/profile/proton.me)
-
-
-
-Proton AG
-
-Route de la Galaise 32  
-1228 Plan-les-Ouates  
-Geneva, Switzerland
-
-  * ### Products
-
-    * [Proton Mail ](https://proton.me/mail)
-    * [Proton Calendar ](https://proton.me/calendar)
-    * [Proton Drive ](https://proton.me/drive)
-    * [Proton VPN (new window)](https://protonvpn.com/?ref=pme_lp_b2c_proton_footer)
-    * [Proton Pass ](https://proton.me/pass)
-    * [Proton Wallet ](https://proton.me/wallet)
-    * [Proton for Business ](https://proton.me/business)
-    * [Switch to Proton ](https://proton.me/easyswitch)
-
-  * Products
-    * [Proton Mail ](https://proton.me/mail)
-    * [Proton Calendar ](https://proton.me/calendar)
-    * [Proton Drive ](https://proton.me/drive)
-    * [Proton VPN (new window)](https://protonvpn.com/?ref=pme_lp_b2c_proton_footer)
-    * [Proton Pass ](https://proton.me/pass)
-    * [Proton Wallet ](https://proton.me/wallet)
-    * [Proton for Business ](https://proton.me/business)
-    * [Switch to Proton ](https://proton.me/easyswitch)
-  * ### Privacy and community
-
-    * [Password generator ](https://proton.me/pass/password-generator)
-    * [Tor ](https://proton.me/tor)
-    * [Community ](https://proton.me/community)
-    * [Open source ](https://proton.me/community/open-source)
-    * [Pricing ](https://proton.me/pricing)
-    * [Student discount ](https://proton.me/student)
-    * [Big Tech fines tracker ](https://proton.me/tech-fines-tracker)
-
-  * Privacy and community
-    * [Password generator ](https://proton.me/pass/password-generator)
-    * [Tor ](https://proton.me/tor)
-    * [Community ](https://proton.me/community)
-    * [Open source ](https://proton.me/community/open-source)
-    * [Pricing ](https://proton.me/pricing)
-    * [Student discount ](https://proton.me/student)
-    * [Big Tech fines tracker ](https://proton.me/tech-fines-tracker)
-  * ### Company
-
-    * [About us ](https://proton.me/about)
-    * [Team ](https://proton.me/about/team)
-    * [Impact ](https://proton.me/about/impact)
-    * [Proton Foundation ](https://proton.me/foundation)
-    * [Careers We’re hiring](https://proton.me/careers)
-    * [Shop (new window)](https://shop.proton.me/)
-
-  * Company
-    * [About us ](https://proton.me/about)
-    * [Team ](https://proton.me/about/team)
-    * [Impact ](https://proton.me/about/impact)
-    * [Proton Foundation ](https://proton.me/foundation)
-    * [Careers We’re hiring](https://proton.me/careers)
-    * [Shop (new window)](https://shop.proton.me/)
-  * ### Connect
-
-    * [Blog ](https://proton.me/blog)
-    * [Help and support ](https://proton.me/support)
-    * [Partners and affiliates ](https://proton.me/partners)
-    * [Press and media ](https://proton.me/media)
-    * [Contact us ](https://proton.me/support/contact-product)
-    * [Donate ](https://proton.me/foundation#donate)
-
-  * Connect
-    * [Blog ](https://proton.me/blog)
-    * [Help and support ](https://proton.me/support)
-    * [Partners and affiliates ](https://proton.me/partners)
-    * [Press and media ](https://proton.me/media)
-    * [Contact us ](https://proton.me/support/contact-product)
-    * [Donate ](https://proton.me/foundation#donate)
 
 
 
