@@ -60,6 +60,8 @@ By using the [proton.me](https://proton.me/) or [protonvpn.com(new window)](http
 
 The Proton Wallet integration with the Services is operated by Proton Financial AG (a subsidiary of the Company) under [independent terms of use](https://proton.me/wallet/terms). If you use Proton Wallet or receive Bitcoin in Proton Wallet, you also consent to the Proton Wallet terms of use.
 
+The Proton Lumo integration with the Services is subject to its own [terms of use(new window)](https://lumo.proton.me/legal/terms). By using Lumo with your Account, you also consent to the Lumo terms of use.
+
 If you agree to these Terms on behalf of a company or another legal entity, you represent that you have the authority to bind such entity, its affiliates, and all users who access the Services through your Account to these Terms. In the absence of such an authority, you are not authorized to use the Services.
 
 ## 1\. Users of the Services
