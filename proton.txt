@@ -383,7 +383,7 @@ Geneva, Switzerland
     * [Community ](https://proton.me/community)
     * [Open source ](https://proton.me/community/open-source)
     * [Student discount ](https://proton.me/student)
-    * [Big Tech fines tracker ](https://proton.me/tech-fines-tracker)
+    * [Special reports ](https://proton.me/reports)
   * ### Privacy
 
     * [Password generator ](https://proton.me/pass/password-generator)
@@ -391,7 +391,7 @@ Geneva, Switzerland
     * [Community ](https://proton.me/community)
     * [Open source ](https://proton.me/community/open-source)
     * [Student discount ](https://proton.me/student)
-    * [Big Tech fines tracker ](https://proton.me/tech-fines-tracker)
+    * [Special reports ](https://proton.me/reports)
 
   * Company
     * [About us ](https://proton.me/about)
