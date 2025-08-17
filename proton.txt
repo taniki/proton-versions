@@ -348,82 +348,100 @@ Route de la Galaise 32
 Geneva, Switzerland
 
   * Products
-    * [Proton Mail ](https://proton.me/mail)
-    * [Proton Calendar ](https://proton.me/calendar)
-    * [Proton Drive ](https://proton.me/drive)
-    * [Proton VPN (new window)](https://protonvpn.com/?ref=pme_lp_b2c_proton_footer)
-    * [Proton Pass ](https://proton.me/pass)
-    * [Proton Wallet ](https://proton.me/wallet)
-    * [Proton Authenticator New](https://proton.me/authenticator)
-    * [Lumo New(new window)](https://lumo.proton.me/)
-    * [Standard Notes (new window)](https://standardnotes.com/)
-    * [Simple Login (new window)](https://simplelogin.io/)
-    * [Proton for Business ](https://proton.me/business)
-    * [Pricing ](https://proton.me/pricing)
-    * [Switch to Proton ](https://proton.me/easyswitch)
+    * [Proton Mail](https://proton.me/mail)
+    * [Proton Calendar](https://proton.me/calendar)
+    * [Proton Drive](https://proton.me/drive)
+    * [Proton VPN(new window)](https://protonvpn.com/?ref=pme_lp_b2c_proton_footer)
+    * [Proton Pass](https://proton.me/pass)
+    * [Proton Wallet](https://proton.me/wallet)
+    * [Proton Authenticator](https://proton.me/authenticator)
+
+New
+
+    * [Lumo(new window)](https://lumo.proton.me/)
+
+New
+
+    * [Standard Notes(new window)](https://standardnotes.com/)
+    * [Simple Login(new window)](https://simplelogin.io/)
+    * [Proton for Business](https://proton.me/business)
+    * [Pricing](https://proton.me/pricing)
+    * [Switch to Proton](https://proton.me/easyswitch)
   * ### Products
 
-    * [Proton Mail ](https://proton.me/mail)
-    * [Proton Calendar ](https://proton.me/calendar)
-    * [Proton Drive ](https://proton.me/drive)
-    * [Proton VPN (new window)](https://protonvpn.com/?ref=pme_lp_b2c_proton_footer)
-    * [Proton Pass ](https://proton.me/pass)
-    * [Proton Wallet ](https://proton.me/wallet)
-    * [Proton Authenticator New](https://proton.me/authenticator)
-    * [Lumo New(new window)](https://lumo.proton.me/)
-    * [Standard Notes (new window)](https://standardnotes.com/)
-    * [Simple Login (new window)](https://simplelogin.io/)
-    * [Proton for Business ](https://proton.me/business)
-    * [Pricing ](https://proton.me/pricing)
-    * [Switch to Proton ](https://proton.me/easyswitch)
+    * [Proton Mail](https://proton.me/mail)
+    * [Proton Calendar](https://proton.me/calendar)
+    * [Proton Drive](https://proton.me/drive)
+    * [Proton VPN(new window)](https://protonvpn.com/?ref=pme_lp_b2c_proton_footer)
+    * [Proton Pass](https://proton.me/pass)
+    * [Proton Wallet](https://proton.me/wallet)
+    * [Proton Authenticator](https://proton.me/authenticator)
+
+New
+
+    * [Lumo(new window)](https://lumo.proton.me/)
+
+New
+
+    * [Standard Notes(new window)](https://standardnotes.com/)
+    * [Simple Login(new window)](https://simplelogin.io/)
+    * [Proton for Business](https://proton.me/business)
+    * [Pricing](https://proton.me/pricing)
+    * [Switch to Proton](https://proton.me/easyswitch)
 
   * Privacy
-    * [Password generator ](https://proton.me/pass/password-generator)
-    * [Tor ](https://proton.me/tor)
-    * [Community ](https://proton.me/community)
-    * [Open source ](https://proton.me/community/open-source)
-    * [Student discount ](https://proton.me/student)
-    * [Special reports ](https://proton.me/reports)
+    * [Password generator](https://proton.me/pass/password-generator)
+    * [Tor](https://proton.me/tor)
+    * [Community](https://proton.me/community)
+    * [Open source](https://proton.me/community/open-source)
+    * [Student discount](https://proton.me/student)
+    * [Special reports](https://proton.me/reports)
   * ### Privacy
 
-    * [Password generator ](https://proton.me/pass/password-generator)
-    * [Tor ](https://proton.me/tor)
-    * [Community ](https://proton.me/community)
-    * [Open source ](https://proton.me/community/open-source)
-    * [Student discount ](https://proton.me/student)
-    * [Special reports ](https://proton.me/reports)
+    * [Password generator](https://proton.me/pass/password-generator)
+    * [Tor](https://proton.me/tor)
+    * [Community](https://proton.me/community)
+    * [Open source](https://proton.me/community/open-source)
+    * [Student discount](https://proton.me/student)
+    * [Special reports](https://proton.me/reports)
 
   * Company
-    * [About us ](https://proton.me/about)
-    * [Team ](https://proton.me/about/team)
-    * [Impact ](https://proton.me/about/impact)
-    * [Proton Foundation ](https://proton.me/foundation)
-    * [Careers We’re hiring](https://proton.me/careers)
-    * [Shop (new window)](https://shop.proton.me/)
+    * [About us](https://proton.me/about)
+    * [Team](https://proton.me/about/team)
+    * [Impact](https://proton.me/about/impact)
+    * [Proton Foundation](https://proton.me/foundation)
+    * [Careers](https://proton.me/careers)
+
+We’re hiring
+
+    * [Shop(new window)](https://shop.proton.me/)
   * ### Company
 
-    * [About us ](https://proton.me/about)
-    * [Team ](https://proton.me/about/team)
-    * [Impact ](https://proton.me/about/impact)
-    * [Proton Foundation ](https://proton.me/foundation)
-    * [Careers We’re hiring](https://proton.me/careers)
-    * [Shop (new window)](https://shop.proton.me/)
+    * [About us](https://proton.me/about)
+    * [Team](https://proton.me/about/team)
+    * [Impact](https://proton.me/about/impact)
+    * [Proton Foundation](https://proton.me/foundation)
+    * [Careers](https://proton.me/careers)
+
+We’re hiring
+
+    * [Shop(new window)](https://shop.proton.me/)
 
   * Connect
-    * [Blog ](https://proton.me/blog)
-    * [Help and support ](https://proton.me/support)
-    * [Partners and affiliates ](https://proton.me/partners)
-    * [Press and media ](https://proton.me/media)
-    * [Contact us ](https://proton.me/support/contact-product)
-    * [Donate ](https://proton.me/foundation#donate)
+    * [Blog](https://proton.me/blog)
+    * [Help and support](https://proton.me/support)
+    * [Partners and affiliates](https://proton.me/partners)
+    * [Press and media](https://proton.me/media)
+    * [Contact us](https://proton.me/support/contact-product)
+    * [Donate](https://proton.me/foundation#donate)
   * ### Connect
 
-    * [Blog ](https://proton.me/blog)
-    * [Help and support ](https://proton.me/support)
-    * [Partners and affiliates ](https://proton.me/partners)
-    * [Press and media ](https://proton.me/media)
-    * [Contact us ](https://proton.me/support/contact-product)
-    * [Donate ](https://proton.me/foundation#donate)
+    * [Blog](https://proton.me/blog)
+    * [Help and support](https://proton.me/support)
+    * [Partners and affiliates](https://proton.me/partners)
+    * [Press and media](https://proton.me/media)
+    * [Contact us](https://proton.me/support/contact-product)
+    * [Donate](https://proton.me/foundation#donate)
 
 
 
